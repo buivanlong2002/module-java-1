@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/system_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/src/Currency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/BMI-Caculator/BMI-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/BMI-Caculator/BMI-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/BMI-Caculator/src/BodyMassIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/BMI-Caculator/src/BodyMassIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/BMI-Caculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/BMI-Caculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Day-Month/Day-Month.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Day-Month/Day-Month.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Day-Month/src/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Day-Month/src/DayOfMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Day-Month/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Day-Month/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Leap-Year-Caculator/Leap-Year-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Leap-Year-Caculator/Leap-Year-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Leap-Year-Caculator/src/LeapYearCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Leap-Year-Caculator/src/LeapYearCaculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Leap-Year-Caculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Leap-Year-Caculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Linear-Equation-Resolver/src/Linear_Equation_Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Linear-Equation-Resolver/src/Linear_Equation_Resolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Linear-Equation-Resolver/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Linear-Equation-Resolver/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Operator-Expression/Operator-Expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Operator-Expression/Operator-Expression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Operator-Expression/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Operator-Expression/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Operator-Expression/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Operator-Expression/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Variable-DataType/Variable-DataType.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Parctice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Variable-DataType/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Variable-DataType/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Variable-DataType/src/Variable_DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Variable-DataType/src/Variable_DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/src/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/system_time/src/SystemTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/system_time/system_time.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/Variable-DataType/Variable-DataType.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +40,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vFMwhzvI1SElLr0dAyxMBE4WyJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BodyMassIndex.executor": "Run",
+    "Application.Currency.executor": "Run",
     "Application.DayOfMonth.executor": "Run",
     "Application.LeapYearCaculator.executor": "Run",
     "Application.Linear_Equation_Resolver.executor": "Run",
@@ -123,6 +96,7 @@
       <updated>1743736612204</updated>
       <workItem from="1743736614965" duration="1875000" />
       <workItem from="1743738809335" duration="2142000" />
+      <workItem from="1743741309786" duration="359000" />
     </task>
     <servers />
   </component>
