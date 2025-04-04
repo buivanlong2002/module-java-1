@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/src/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/src/GreatestCommonFactor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,6 +54,8 @@
     "Application.ConvertNumberToWords.executor": "Run",
     "Application.Currency.executor": "Run",
     "Application.DayOfMonth.executor": "Run",
+    "Application.GreatestCommonFactor.executor": "Run",
+    "Application.Interest.executor": "Run",
     "Application.LeapYearCaculator.executor": "Run",
     "Application.Linear_Equation_Resolver.executor": "Run",
     "Application.Main.executor": "Run",
@@ -70,7 +73,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Parctice2/Interest-Caculator/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Parctice2/Greatest-Common-Factor/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +101,7 @@
       <updated>1743736612204</updated>
       <workItem from="1743736614965" duration="1875000" />
       <workItem from="1743738809335" duration="2142000" />
-      <workItem from="1743741309786" duration="6355000" />
+      <workItem from="1743741309786" duration="7137000" />
     </task>
     <servers />
   </component>
@@ -200,6 +203,11 @@
           <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
