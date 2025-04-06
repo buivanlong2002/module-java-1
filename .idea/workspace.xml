@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/Prime-Less.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/src/PrimeLess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -63,6 +64,7 @@
     "Application.Linear_Equation_Resolver.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Prime.executor": "Run",
+    "Application.PrimeLess.executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.SystemTime.executor": "Run",
     "Application.Variable_DataType.executor": "Run",
@@ -77,7 +79,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Exercise2/Print-Prime/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Exercise2/Prime-Less/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,7 +110,7 @@
       <workItem from="1743741309786" duration="7232000" />
       <workItem from="1743921778825" duration="3528000" />
       <workItem from="1743952405089" duration="3699000" />
-      <workItem from="1743956322084" duration="768000" />
+      <workItem from="1743956322084" duration="1975000" />
     </task>
     <servers />
   </component>
@@ -235,6 +237,11 @@
           <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
