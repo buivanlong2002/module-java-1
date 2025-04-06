@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/src/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/src/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,37 +50,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BodyMassIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertNumberToWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayOfMonth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Geometry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestCommonFactor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYearCaculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Linear_Equation_Resolver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SystemTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable_DataType.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Exercise2/Geometry/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BodyMassIndex.executor": "Run",
+    "Application.ConvertNumberToWords.executor": "Run",
+    "Application.Currency.executor": "Run",
+    "Application.DayOfMonth.executor": "Run",
+    "Application.Geometry.executor": "Run",
+    "Application.GreatestCommonFactor.executor": "Run",
+    "Application.Interest.executor": "Run",
+    "Application.LeapYearCaculator.executor": "Run",
+    "Application.Linear_Equation_Resolver.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.SystemTime.executor": "Run",
+    "Application.Variable_DataType.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Loop-In-Java/Exercise2/Print-Prime/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Introduction to Java\Parctice" />
@@ -107,7 +107,8 @@
       <workItem from="1743738809335" duration="2142000" />
       <workItem from="1743741309786" duration="7232000" />
       <workItem from="1743921778825" duration="3528000" />
-      <workItem from="1743952405089" duration="3608000" />
+      <workItem from="1743952405089" duration="3699000" />
+      <workItem from="1743956322084" duration="768000" />
     </task>
     <servers />
   </component>
@@ -229,6 +230,11 @@
           <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
