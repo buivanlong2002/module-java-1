@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/src/ConvertTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Convert-Temperature/ConvertTemperature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Convert-Temperature/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/src/DeleteElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,7 @@
     "Application.ConvertTemperature.executor": "Run",
     "Application.Currency.executor": "Run",
     "Application.DayOfMonth.executor": "Run",
+    "Application.DeleteElement.executor": "Run",
     "Application.Geometry.executor": "Run",
     "Application.GreatestCommonFactor.executor": "Run",
     "Application.IndexArray.executor": "Run",
@@ -68,6 +66,7 @@
     "Application.Linear_Equation_Resolver.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxElement.executor": "Run",
+    "Application.MinElement.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.PrimeLess.executor": "Run",
     "Application.Rectangle.executor": "Run",
@@ -85,7 +84,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Parctice3/Convert-Temperature/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Exercise3/Delete-Element/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,7 +115,8 @@
       <workItem from="1743741309786" duration="7232000" />
       <workItem from="1743921778825" duration="3528000" />
       <workItem from="1743952405089" duration="3699000" />
-      <workItem from="1743956322084" duration="4113000" />
+      <workItem from="1743956322084" duration="4330000" />
+      <workItem from="1743999784157" duration="1190000" />
     </task>
     <servers />
   </component>
@@ -278,6 +278,21 @@
           <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
