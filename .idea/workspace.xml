@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/src/SumDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/src/CharacterOccurrences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,6 +55,7 @@
   "keyToString": {
     "Application.AddElement.executor": "Run",
     "Application.BodyMassIndex.executor": "Run",
+    "Application.CharacterOccurrences.executor": "Run",
     "Application.ConvertNumberToWords.executor": "Run",
     "Application.ConvertTemperature.executor": "Run",
     "Application.CountStudentPass.executor": "Run",
@@ -91,7 +93,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Exercise3/Sum-Diagonal/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Exercise3/Character-Occurrences/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -126,7 +128,7 @@
       <workItem from="1743999784157" duration="2730000" />
       <workItem from="1744010041778" duration="1227000" />
       <workItem from="1744022313899" duration="2004000" />
-      <workItem from="1744033661084" duration="999000" />
+      <workItem from="1744033661084" duration="1590000" />
     </task>
     <servers />
   </component>
@@ -333,6 +335,11 @@
           <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
