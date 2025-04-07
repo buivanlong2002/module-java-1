@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/src/DeleteElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/src/AddElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddElement.executor": "Run",
     "Application.BodyMassIndex.executor": "Run",
     "Application.ConvertNumberToWords.executor": "Run",
     "Application.ConvertTemperature.executor": "Run",
@@ -84,7 +86,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Exercise3/Delete-Element/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Exercise3/Add-Element/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,7 +118,7 @@
       <workItem from="1743921778825" duration="3528000" />
       <workItem from="1743952405089" duration="3699000" />
       <workItem from="1743956322084" duration="4330000" />
-      <workItem from="1743999784157" duration="1190000" />
+      <workItem from="1743999784157" duration="2561000" />
     </task>
     <servers />
   </component>
@@ -293,6 +295,11 @@
           <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

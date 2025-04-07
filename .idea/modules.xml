@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" filepath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" filepath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" />
