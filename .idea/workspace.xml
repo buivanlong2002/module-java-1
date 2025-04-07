@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/src/Fan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -93,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Class-Object-In-Java/Exercise4/Stop-Watch/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Class-Object-In-Java/Exercise4/Electric-Fan/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -129,7 +130,7 @@
       <workItem from="1743999784157" duration="2730000" />
       <workItem from="1744010041778" duration="1227000" />
       <workItem from="1744022313899" duration="2004000" />
-      <workItem from="1744033661084" duration="4440000" />
+      <workItem from="1744033661084" duration="5518000" />
     </task>
     <servers />
   </component>
