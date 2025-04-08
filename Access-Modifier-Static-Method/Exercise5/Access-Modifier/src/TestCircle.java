@@ -1,9 +1,9 @@
 public class TestCircle {
     public static void main(String[] args) {
-        Circle circle1 = new Circle();
+        Circle_ circle1 = new Circle_();
         System.out.println("Radius: " + circle1.getRadius());
         System.out.println("Area: " + circle1.getArea());
-        Circle circle2 = new Circle(2.5);
+        Circle_ circle2 = new Circle_(2.5);
         System.out.println("Radius: " + circle2.getRadius());
         System.out.println("Area: " + circle2.getArea());
     }
