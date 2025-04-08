@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -95,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Access-Modifier-Static-Method/Parctice5/Static-Method/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Access-Modifier-Static-Method/Parctice5/Static-Property/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -132,7 +131,7 @@
       <workItem from="1744010041778" duration="1227000" />
       <workItem from="1744022313899" duration="2004000" />
       <workItem from="1744033661084" duration="6422000" />
-      <workItem from="1744078549982" duration="1369000" />
+      <workItem from="1744078549982" duration="2000000" />
     </task>
     <servers />
   </component>
