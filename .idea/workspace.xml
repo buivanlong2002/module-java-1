@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/src/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,7 @@
     "Application.SumColumn.executor": "Run",
     "Application.SumDiagonal.executor": "Run",
     "Application.SystemTime.executor": "Run",
+    "Application.TestCircle.executor": "Run",
     "Application.Variable_DataType.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Access-Modifier-Static-Method/Exercise5/Access-Modifier/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Access-Modifier-Static-Method/Exercise5/Student-Java/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -135,6 +133,7 @@
       <workItem from="1744033661084" duration="6422000" />
       <workItem from="1744078549982" duration="2000000" />
       <workItem from="1744083035546" duration="603000" />
+      <workItem from="1744084007943" duration="308000" />
     </task>
     <servers />
   </component>
@@ -381,6 +380,11 @@
           <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
