@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" filepath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" filepath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" />
@@ -23,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" />
