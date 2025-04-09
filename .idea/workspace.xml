@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Point2DTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Point3DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/MovablePointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/PointTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -80,6 +80,7 @@
     "Application.MegreArray.executor": "Run",
     "Application.MinElement.executor": "Run",
     "Application.MinElementArray.executor": "Run",
+    "Application.MovablePointTest.executor": "Run",
     "Application.Point2DTest.executor": "Run",
     "Application.Point3DTest.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -107,7 +108,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Inherit-Java/Exercise6/Point2D-Point3D/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Inherit-Java/Exercise6/Point-MovablePoint/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -151,7 +152,8 @@
       <workItem from="1744099653462" duration="416000" />
       <workItem from="1744100202976" duration="3084000" />
       <workItem from="1744106011339" duration="1254000" />
-      <workItem from="1744107588518" duration="146000" />
+      <workItem from="1744107588518" duration="310000" />
+      <workItem from="1744161015254" duration="3715000" />
     </task>
     <servers />
   </component>
@@ -438,6 +440,11 @@
           <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
