@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +78,7 @@
     "Application.GreatestCommonFactor.executor": "Run",
     "Application.IndexArray.executor": "Run",
     "Application.Interest.executor": "Run",
+    "Application.InterfaceResizeable.executor": "Run",
     "Application.LeapYearCaculator.executor": "Run",
     "Application.Linear_Equation_Resolver.executor": "Run",
     "Application.Main.executor": "Run",
@@ -100,20 +108,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "1f559fc0",
+    "git-widget-placeholder": "a96f35b6",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/src/Main.java",
     "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Inherit-Java\Parctice6" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Class-Object-In-Java" />
@@ -160,6 +171,7 @@
       <workItem from="1744187212853" duration="3914000" />
       <workItem from="1744248208243" duration="5616000" />
       <workItem from="1744254878558" duration="713000" />
+      <workItem from="1744266721633" duration="2142000" />
     </task>
     <servers />
   </component>
