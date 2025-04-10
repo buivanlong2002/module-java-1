@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="" />
+    <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/InterfaceColorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/et --hard 1f559fc" beforeDir="false" afterPath="$PROJECT_DIR$/et --hard 1f559fc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +79,7 @@
     "Application.GreatestCommonFactor.executor": "Run",
     "Application.IndexArray.executor": "Run",
     "Application.Interest.executor": "Run",
+    "Application.InterfaceColorable.executor": "Run",
     "Application.InterfaceResizeable.executor": "Run",
     "Application.LeapYearCaculator.executor": "Run",
     "Application.Linear_Equation_Resolver.executor": "Run",
@@ -101,19 +112,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/src",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/Interface-Colorable/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Main.java",
     "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Colorable\src" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Resizeable\src" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
