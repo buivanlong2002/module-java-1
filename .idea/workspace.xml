@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/src/ChangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/src/CompareCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/src/CompareCircleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -54,10 +65,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddElement.executor": "Run",
+    "Application.AnimalEdible.executor": "Run",
     "Application.BodyMassIndex.executor": "Run",
     "Application.ChangeArray.executor": "Run",
     "Application.CharacterOccurrences.executor": "Run",
     "Application.CircleTest.executor": "Run",
+    "Application.CompareCircleTest.executor": "Run",
     "Application.ConvertNumberToWords.executor": "Run",
     "Application.ConvertTemperature.executor": "Run",
     "Application.CountStudentPass.executor": "Run",
@@ -107,7 +120,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Array-In-Java/Parctice3/Test-Array/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -154,6 +168,9 @@
       <workItem from="1744107588518" duration="310000" />
       <workItem from="1744161015254" duration="5501000" />
       <workItem from="1744166676885" duration="1087000" />
+      <workItem from="1744170557233" duration="985000" />
+      <workItem from="1744187212853" duration="3914000" />
+      <workItem from="1744248208243" duration="1413000" />
     </task>
     <servers />
   </component>
@@ -450,6 +467,16 @@
           <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Abstract-Class-Interface/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

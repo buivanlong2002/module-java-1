@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" filepath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" />
@@ -50,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" filepath="$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" />
