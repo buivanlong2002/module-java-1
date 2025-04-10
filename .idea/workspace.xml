@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/InterfaceColorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/et --hard 1f559fc" beforeDir="false" afterPath="$PROJECT_DIR$/et --hard 1f559fc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +113,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Abstract-Class-Interface/Exercise7/Interface-Colorable/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Class-Object-In-Java/Test1004/src/Main.java",
     "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
