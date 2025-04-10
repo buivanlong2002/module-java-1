@@ -21,7 +21,7 @@ public class Main {
         boolean exist = false;
         for (int i = 0; i < students.length; i++) {
             if (students[i].getFullName().equals("Nguyen Van A")) {
-                System.out.println("Student Nguyen Van A's email is: " + students[4].getEmail());
+                System.out.println("Student Nguyen Van A's email is: " + students[i].getEmail());
                 exist = true;
                 break;
             }
