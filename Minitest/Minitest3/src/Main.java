@@ -99,7 +99,7 @@ public class Main {
         double maxPrice = sc.nextDouble();
         int countBookMaxPrice = 0;
         for (Book book : books) {
-            if (book instanceof FictionBook && ((FictionBook) book).getPrice() < maxPrice) {
+            if (book instanceof FictionBook && book.getPrice() < maxPrice) {
                 countBookMaxPrice++;
                 book.display();
             }
