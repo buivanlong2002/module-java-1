@@ -53,11 +53,13 @@ public class Main {
         } while (choice != 0);
         sc.close();
     }
+
     public static void displayAllStaffs(Staff[] staffs) {
         for (Staff staff : staffs) {
             System.out.println(staff);
         }
     }
+
     public static double averageSalary(Staff[] staffs) {
         double sumSalary = 0;
         for (Staff staff : staffs) {
@@ -66,6 +68,7 @@ public class Main {
         // double averageSalary = Math.round((sumSalary / staffs.length) * 100.0) / 100.0;
         return sumSalary / staffs.length;
     }
+
     public static void staffsFulltimeSalaryLower(Staff[] staffs) {
         int count = 0;
         for (Staff staff : staffs) {
@@ -80,6 +83,7 @@ public class Main {
             System.out.println("The number of people whose salary is lower than the average salary is: " + count);
         }
     }
+
     public static void totalParttimeSalary(Staff[] staffs) {
         double sumSalaryParttime = 0;
         for (Staff staff : staffs) {
@@ -89,6 +93,7 @@ public class Main {
         }
         System.out.println("Total part-time salary is: " + String.format("%.0f", sumSalaryParttime) + "VNĐ");
     }
+
     public static void arrangeStaffFulltimeBySalary(Staff[] staffs) {
         Comparator<Staff> staffComparator = new StaffComparator();
         Arrays.sort(staffs, staffComparator);

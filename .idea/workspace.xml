@@ -5,96 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/TennisGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/lib4/junit-4.13.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/src/TennisGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Max-Element-Array-2D/Max-Element-Array-2D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Max-Element-Array-2D/Max-Element-Array-2D.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Megre-Array/Megre-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Megre-Array/Megre-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Min-Element-Array/Min-Element-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Min-Element-Array/Min-Element-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Index-Array/Index-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Index-Array/Index-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Max-Element/Max-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Max-Element/Max-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/Min-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/Min-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Parctice8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Parctice8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Inherit-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Inherit-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/Prime-Less.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/Prime-Less.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Loop-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Loop-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/Interest-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/Interest-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest2/Minitest2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest2/Minitest2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/junit-platform-console-standalone-1.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/StaffFulltime.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/StaffFulltime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffFulltime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffFulltime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffParttime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffParttime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,79 +56,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddElement.executor": "Run",
-    "Application.AnimalEdible.executor": "Run",
-    "Application.BodyMassIndex.executor": "Run",
-    "Application.CalculatorTest.executor": "Run",
-    "Application.ChangeArray.executor": "Run",
-    "Application.CharacterOccurrences.executor": "Run",
-    "Application.CircleComparatorTest.executor": "Run",
-    "Application.CircleTest.executor": "Run",
-    "Application.CompareCircleTest.executor": "Run",
-    "Application.ConvertNumberToWords.executor": "Run",
-    "Application.ConvertTemperature.executor": "Run",
-    "Application.CountStudentPass.executor": "Run",
-    "Application.Currency.executor": "Run",
-    "Application.CylinderTest.executor": "Run",
-    "Application.DayOfMonth.executor": "Run",
-    "Application.DeleteElement.executor": "Run",
-    "Application.EvenNumber.executor": "Run",
-    "Application.FizzBuzzTest.executor": "Run",
-    "Application.Geometry.executor": "Run",
-    "Application.GreatestCommonFactor.executor": "Run",
-    "Application.IndexArray.executor": "Run",
-    "Application.Interest.executor": "Run",
-    "Application.InterfaceColorable.executor": "Run",
-    "Application.InterfaceResizeable.executor": "Run",
-    "Application.LeapYearCaculator.executor": "Run",
-    "Application.Linear_Equation_Resolver.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxElement.executor": "Run",
-    "Application.MaxElementArray2D.executor": "Run",
-    "Application.MegreArray.executor": "Run",
-    "Application.MinElement.executor": "Run",
-    "Application.MinElementArray.executor": "Run",
-    "Application.MovablePointTest.executor": "Run",
-    "Application.Point2DTest.executor": "Run",
-    "Application.Point3DTest.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.PrimeLess.executor": "Run",
-    "Application.Rectangle.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ShapeTest.executor": "Run",
-    "Application.SquareTest.executor": "Run",
-    "Application.SumColumn.executor": "Run",
-    "Application.SumDiagonal.executor": "Run",
-    "Application.SystemTime.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestCircle.executor": "Run",
-    "Application.TriangleTest.executor": "Run",
-    "Application.Variable_DataType.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.main.executor": "Run",
-    "JUnit.CylinderTest.executor": "Run",
-    "JUnit.TennisGameTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalEdible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BodyMassIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterOccurrences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleComparatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareCircleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertTemperature.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountStudentPass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CylinderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayOfMonth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Geometry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestCommonFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceColorable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceResizeable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYearCaculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_Equation_Resolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElementArray2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MegreArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinElementArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovablePointTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Point2DTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Point3DTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeLess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShapeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumColumn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumDiagonal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SystemTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TriangleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable_DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CylinderTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TennisGameTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Exercise8\TennisGame" />
@@ -278,7 +195,8 @@
       <workItem from="1744683264810" duration="9888000" />
       <workItem from="1744698346126" duration="3060000" />
       <workItem from="1744701789635" duration="1187000" />
-      <workItem from="1744703020321" duration="2417000" />
+      <workItem from="1744703020321" duration="4004000" />
+      <workItem from="1744708302292" duration="410000" />
     </task>
     <servers />
   </component>
