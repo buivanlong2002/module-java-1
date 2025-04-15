@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" />
@@ -77,7 +78,7 @@
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" />
