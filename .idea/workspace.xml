@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/SimpleCalculator/lib5/junit-platform-console-standalone-1.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/SimpleCalculator/src/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/Staff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/StaffFulltime.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest4/StaffFulltime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffFulltime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffFulltime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffParttime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/src/StaffParttime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,13 +112,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/SimpleCalculator&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Clean-Code-Refactor/Exercise8/TennisGame/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/SimpleCalculator/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -131,11 +128,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\SimpleCalculator" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Exercise8\TennisGame" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Colorable\src" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Resizeable\src" />
-      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
@@ -196,7 +193,8 @@
       <workItem from="1744698346126" duration="3060000" />
       <workItem from="1744701789635" duration="1187000" />
       <workItem from="1744703020321" duration="4004000" />
-      <workItem from="1744708302292" duration="410000" />
+      <workItem from="1744708302292" duration="1711000" />
+      <workItem from="1744710061205" duration="70000" />
     </task>
     <servers />
   </component>
@@ -528,6 +526,11 @@
           <url>file://$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Automated-Testing-TDD/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
