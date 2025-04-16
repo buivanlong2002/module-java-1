@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/src/NextDayCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/src/TriangleClassificationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -111,6 +109,7 @@
     "JUnit.NextDayCalculatorTest.executor": "Run",
     "JUnit.SimpleCalculatorTest.executor": "Run",
     "JUnit.TennisGameTest.executor": "Run",
+    "JUnit.TriangleClassificationTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -122,7 +121,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/Exercise9/Next-Day/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/Exercise9/Triangle-Classification/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -198,7 +197,8 @@
       <workItem from="1744701789635" duration="1187000" />
       <workItem from="1744703020321" duration="4004000" />
       <workItem from="1744708302292" duration="1711000" />
-      <workItem from="1744710061205" duration="2069000" />
+      <workItem from="1744710061205" duration="2644000" />
+      <workItem from="1744765359318" duration="1044000" />
     </task>
     <servers />
   </component>
