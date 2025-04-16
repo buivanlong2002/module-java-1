@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/src/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Exercise10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/Java-Util-Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/src/TestMyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest5/Material.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Minitest5/Material.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest5/src/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest5/src/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest5/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +108,7 @@
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestMyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMyList.executor&quot;: &quot;Run&quot;,
     &quot;Application.TriangleTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Variable_DataType.executor&quot;: &quot;Run&quot;,
     &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
@@ -129,7 +131,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -213,7 +215,8 @@
       <workItem from="1744777212898" duration="4023000" />
       <workItem from="1744787835914" duration="380000" />
       <workItem from="1744788317388" duration="286000" />
-      <workItem from="1744789518312" duration="315000" />
+      <workItem from="1744789518312" duration="2213000" />
+      <workItem from="1744792024412" duration="49000" />
     </task>
     <servers />
   </component>
@@ -585,6 +588,11 @@
           <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
