@@ -1,10 +1,10 @@
 import java.time.LocalDate;
 
 public abstract class Material {
-    public String id;
-    public String name;
-    public int cost;
-    public LocalDate manufacturingDate;
+    private String id;
+    private String name;
+    private int cost;
+    private LocalDate manufacturingDate;
     public Material() {}
     public Material(String id, String name, int cost, LocalDate manufacturingDate) {
         this.id = id;
