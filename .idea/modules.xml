@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" filepath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" />
@@ -37,8 +39,8 @@
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/FizzBuzzTranslate.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/FizzBuzzTranslate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" filepath="$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" />
@@ -65,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" filepath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />

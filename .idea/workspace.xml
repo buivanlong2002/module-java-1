@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/FizzBuzzTranslate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/src/FizzBuzzTranslate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/src/FizzBuzzTranslateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,7 @@
     "Application.MinElement.executor": "Run",
     "Application.MinElementArray.executor": "Run",
     "Application.MovablePointTest.executor": "Run",
+    "Application.MyListTest.executor": "Run",
     "Application.Point2DTest.executor": "Run",
     "Application.Point3DTest.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -125,7 +125,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/Exercise9/FizzBuzzTranslate/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/ArrayList-LinkedList/Parctice10/Deployment-My-List/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -204,7 +204,8 @@
       <workItem from="1744710061205" duration="2644000" />
       <workItem from="1744765359318" duration="4177000" />
       <workItem from="1744769820202" duration="1806000" />
-      <workItem from="1744771751517" duration="3210000" />
+      <workItem from="1744771751517" duration="4305000" />
+      <workItem from="1744776396143" duration="348000" />
     </task>
     <servers />
   </component>
@@ -556,6 +557,21 @@
           <url>file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
