@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/My-Queue-Arr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -96,6 +95,7 @@
     "Application.MyLinkedListTest.executor": "Run",
     "Application.MyListTest.executor": "Run",
     "Application.MyQueueTest.executor": "Run",
+    "Application.MyStackTest.executor": "Run",
     "Application.NumberOccurrencesWord.executor": "Run",
     "Application.Point2DTest.executor": "Run",
     "Application.Point3DTest.executor": "Run",
@@ -139,7 +139,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -234,7 +234,7 @@
       <workItem from="1744852308627" duration="4354000" />
       <workItem from="1744861029606" duration="5448000" />
       <workItem from="1744873912702" duration="3404000" />
-      <workItem from="1744878054473" duration="14657000" />
+      <workItem from="1744878054473" duration="15275000" />
     </task>
     <servers />
   </component>
