@@ -38,6 +38,7 @@ public abstract class Material {
     }
     public abstract double getAmount();
     public abstract LocalDate getExpiryDate();
+    @Override
     public String toString() {
         return "id: " + id + ", name: " + name + ", cost: " + cost + ", manufacturingDate: " + manufacturingDate;
     }
