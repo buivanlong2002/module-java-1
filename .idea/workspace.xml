@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/src/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +82,7 @@
     "Application.InterfaceResizeable.executor": "Run",
     "Application.LeapYearCaculator.executor": "Run",
     "Application.Linear_Equation_Resolver.executor": "Run",
+    "Application.LinkedListQueueClient.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaterialManager.executor": "Run",
     "Application.MaxElement.executor": "Run",
@@ -132,7 +130,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -219,6 +217,7 @@
       <workItem from="1744789518312" duration="2213000" />
       <workItem from="1744792024412" duration="2456000" />
       <workItem from="1744852308627" duration="4354000" />
+      <workItem from="1744861029606" duration="1249000" />
     </task>
     <servers />
   </component>
