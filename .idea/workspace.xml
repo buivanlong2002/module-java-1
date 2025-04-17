@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/src/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/src/CrispyFlour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/src/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/src/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/src/MaterialManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/src/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/MyGenericStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -80,6 +76,7 @@
     "Application.DeleteElement.executor": "Run",
     "Application.EvenNumber.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
+    "Application.GenericStackClient.executor": "Run",
     "Application.Geometry.executor": "Run",
     "Application.GreatestCommonFactor.executor": "Run",
     "Application.IndexArray.executor": "Run",
@@ -135,11 +132,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -221,7 +218,7 @@
       <workItem from="1744788317388" duration="286000" />
       <workItem from="1744789518312" duration="2213000" />
       <workItem from="1744792024412" duration="2456000" />
-      <workItem from="1744852308627" duration="553000" />
+      <workItem from="1744852308627" duration="4354000" />
     </task>
     <servers />
   </component>
@@ -598,6 +595,16 @@
           <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
