@@ -2,7 +2,7 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
-        UpdateMaterial materials = new UpdateMaterial();
+        MaterialManager materials = new MaterialManager();
         materials.addMaterial(new CrispyFlour("F001", "Bột mì", 25000, LocalDate.of(2024, 7, 15), 10));
         materials.addMaterial(new CrispyFlour("F002", "Bột chiên giòn", 30000, LocalDate.of(2024, 6, 20), 8));
         materials.addMaterial(new CrispyFlour("F003", "Bột gạo", 20000, LocalDate.of(2024, 5, 10), 12));

@@ -1,4 +1,4 @@
-public class UpdateMaterial {
+public class MaterialManager {
 
     private Material[] materials = new Material[100];
     private int count = 0;
