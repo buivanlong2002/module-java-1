@@ -7,16 +7,8 @@ public class MyList<E> {
         elements = new Object[DEFAULT_CAPACITY];
     }
 
-    public boolean isEmpty() {
-        return size == 0;
-    }
-
-    public boolean isFull() {
-        return size == elements.length;
-    }
-
     public void add(E element) {
-        if (isFull()) {
+        if (size == elements.length) {
             ensureCapacity();
         }
         elements[size++] = element;
