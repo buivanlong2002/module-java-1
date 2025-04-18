@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/Demerging-Queue.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/Demerging-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" />
@@ -70,6 +72,7 @@
       <module fileurl="file://$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" filepath="$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" filepath="$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" filepath="$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minitest/Minitest6/Minitest6.iml" filepath="$PROJECT_DIR$/Minitest/Minitest6/Minitest6.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/My-Queue-Arr.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/My-Queue-Arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" />
@@ -114,7 +117,6 @@
       <module fileurl="file://$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" filepath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/heck-Brackets-In-Stack/heck-Brackets-In-Stack.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/heck-Brackets-In-Stack/heck-Brackets-In-Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" />
     </modules>

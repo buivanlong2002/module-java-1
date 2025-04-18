@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/heck-Brackets-In-Stack/src/CheckBracketsStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/Minitest6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/BrandComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/TaxComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Taxable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/VehicleManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/et --hard 1f559fc" beforeDir="false" afterPath="$PROJECT_DIR$/et --hard 1f559fc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -116,6 +125,7 @@
     "Application.TestCircle.executor": "Run",
     "Application.TestMyLinkedList.executor": "Run",
     "Application.TestMyList.executor": "Run",
+    "Application.TestPro.executor": "Run",
     "Application.TriangleTest.executor": "Run",
     "Application.Variable_DataType.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -141,7 +151,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Exercise11/heck-Brackets-In-Stack/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Minitest/Minitest6/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -240,7 +250,7 @@
       <workItem from="1744938168206" duration="3674000" />
       <workItem from="1744941941416" duration="4657000" />
       <workItem from="1744948173193" duration="3668000" />
-      <workItem from="1744958081168" duration="5659000" />
+      <workItem from="1744958081168" duration="12301000" />
     </task>
     <servers />
   </component>
@@ -647,11 +657,6 @@
           <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/heck-Brackets-In-Stack/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
