@@ -22,7 +22,7 @@ public class MyStack {
     public int size() {
         return index;
     }
-
+    
     public boolean isEmpty() {
         if (index == 0) {
             return true;
