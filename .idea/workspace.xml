@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/Convert-Decimal-To-Binary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/src/ConvertDecimalToBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/src/MyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +235,7 @@
       <workItem from="1744873912702" duration="3404000" />
       <workItem from="1744878054473" duration="15360000" />
       <workItem from="1744938168206" duration="3674000" />
-      <workItem from="1744941941416" duration="1016000" />
+      <workItem from="1744941941416" duration="2363000" />
     </task>
     <servers />
   </component>
