@@ -1,18 +1,18 @@
 public class MyQueueTest {
     public static void main(String[] args) {
         MyQueue queue = new MyQueue(4);
-        queue.enQueue(4);
-        queue.deQueue();
-        queue.enQueue(56);
-        queue.enQueue(2);
-        queue.enQueue(67);
-        queue.deQueue();
-        queue.deQueue();
-        queue.enQueue(24);
-        queue.deQueue();
-        queue.enQueue(98);
-        queue.enQueue(45);
-        queue.enQueue(23);
-        queue.enQueue(435);
+        queue.offer(4);
+        queue.remove();
+        queue.offer(56);
+        queue.offer(2);
+        queue.offer(67);
+        queue.remove();
+        queue.remove();
+        queue.offer(24);
+        queue.remove();
+        queue.offer(98);
+        queue.offer(45);
+        queue.offer(23);
+        queue.offer(435);
     }
 }

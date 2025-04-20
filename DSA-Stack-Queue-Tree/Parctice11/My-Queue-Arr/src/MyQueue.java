@@ -1,3 +1,5 @@
+import java.util.Queue;
+
 public class MyQueue {
     private int capacity;
     private int[] queueArr;
@@ -7,46 +9,66 @@ public class MyQueue {
 
     public MyQueue(int queueSize) {
         this.capacity = queueSize;
-        queueArr = new int[this.capacity];
+        this.queueArr = new int[queueSize];
     }
 
-    public boolean isQueueFull() {
-        if (capacity == currentSize) {
-            return true;
-        }
-        return false;
+    public boolean isEmpty() {
+        return currentSize == 0;
     }
 
-    public boolean isQueueEmpty() {
-        if (currentSize == 0) {
-            return true;
-        }
-        return false;
+    public boolean isFull() {
+        return currentSize == capacity;
     }
 
-    public void enQueue(int data) {
-        if (isQueueFull()) {
+    public boolean add(int data) {
+        if (isFull()) {
             System.out.println("Queue is full");
-        } else {
-            queueArr[tail] = data;
-            tail = (tail + 1) % capacity;
-            currentSize++;
-            System.out.println("Element " + data + " is pushed to Queue !");
         }
+        return offer(data);
     }
 
-    public void deQueue() {
-        if (isQueueEmpty()) {
-            System.out.println("Queue is empty");
-        } else {
-            head++;
-            if (head == capacity - 1) {
-                System.out.println("Pop element from queue! Removed: " + queueArr[head - 1]);
-                head = 0;
-            } else {
-                System.out.println("Pop element from queue! Removed: " + queueArr[head - 1]);
-            }
-            currentSize--;
+    public boolean offer(int data) {
+        if (isFull()) {
+            return false;
         }
+        tail = (tail + 1) % capacity;
+        queueArr[tail] = data;
+        currentSize++;
+        return true;
+    }
+
+    public int remove() {
+        if (isEmpty()) {
+            System.out.println("Queue is empty");
+        }
+        return poll();
+    }
+
+    public Integer poll() {
+        if (isEmpty()) {
+            return null;
+        }
+        int removed = queueArr[head];
+        head = (head + 1) % capacity;
+        currentSize--;
+        return removed;
+    }
+
+    public int element() {
+        if (isEmpty()) {
+            System.out.println("Queue is empty");
+        }
+        return peek();
+    }
+
+    public Integer peek() {
+        if (isEmpty()) {
+            return null;
+        }
+        return queueArr[head];
+    }
+
+    public int size() {
+        return currentSize;
     }
 }
