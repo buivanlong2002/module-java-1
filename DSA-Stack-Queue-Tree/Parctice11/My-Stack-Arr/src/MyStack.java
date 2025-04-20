@@ -12,7 +12,7 @@ public class MyStack {
 
     public void push(int x) {
         if (isFull()) {
-            throw new RuntimeException("Stack is full!");
+            System.out.println("Stack is full!");
         }
         stackArr[index] = x;
         index++;
@@ -20,14 +20,14 @@ public class MyStack {
 
     public int pop() {
         if (isEmpty()) {
-            throw new RuntimeException("Stack is empty!");
+            System.out.println("Stack is empty!");
         }
         return stackArr[--index];
     }
 
     public int peek() {
         if (isEmpty()) {
-            throw new RuntimeException("Stack is empty!");
+            System.out.println("Stack is empty!");
         }
         return stackArr[index - 1];
     }

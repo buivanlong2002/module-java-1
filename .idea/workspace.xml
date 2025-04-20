@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/src/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +241,7 @@
       <workItem from="1744948173193" duration="3668000" />
       <workItem from="1744958081168" duration="12536000" />
       <workItem from="1745140848844" duration="3296000" />
-      <workItem from="1745166791649" duration="2388000" />
+      <workItem from="1745166791649" duration="2449000" />
     </task>
     <servers />
   </component>
