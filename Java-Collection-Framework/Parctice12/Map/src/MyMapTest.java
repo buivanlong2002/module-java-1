@@ -24,9 +24,14 @@ public class MyMapTest {
         System.out.println("Keys: " + map.keySet());
         System.out.println("Values: " + map.values());
 
-        System.out.println("Entries:");
+        System.out.println("Iterate through entries:");
         for (Entry<String, Integer> e : map.entrySet()) {
             System.out.println(e.key + " = " + e.value);
+        }
+
+        System.out.println("Iterate through keys:");
+        for (String key : map.keySet()) {
+            System.out.println(key + " = " + map.get(key));
         }
 
         map.clear();
