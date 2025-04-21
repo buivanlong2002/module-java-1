@@ -57,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Java-Collection-Framework.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Java-Collection-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/Java-Util-Arraylist.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/Java-Util-Arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/Java-Util-Linked-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/Java-Util-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" />
@@ -83,6 +84,7 @@
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
@@ -108,6 +110,7 @@
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" />

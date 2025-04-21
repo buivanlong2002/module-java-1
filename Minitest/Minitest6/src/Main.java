@@ -39,9 +39,9 @@ public class Main {
                     System.out.println("Enter year: ");
                     int year = sc.nextInt();
                     if (type == 1) {
-                        System.out.println("Enter number of vehicles: ");
-                        int numberOfVehicles = sc.nextInt();
-                        vehicleManager.addVehicle(new Car(id, brand, year, numberOfVehicles));
+                        System.out.println("Enter number of seats: ");
+                        int numberOfSeats = sc.nextInt();
+                        vehicleManager.addVehicle(new Car(id, brand, year, numberOfSeats));
                     } else if (type == 2) {
                         System.out.println("Enter Engine Power: ");
                         int enginePower = sc.nextInt();

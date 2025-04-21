@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/QueueManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Demerging.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Demerger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Student-By-Year-Old/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Java-Collection-Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/src/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +81,7 @@
     &quot;Application.CylinderTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.DayOfMonth.executor&quot;: &quot;Run&quot;,
     &quot;Application.DeleteElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demerger.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.GenericStackClient.executor&quot;: &quot;Run&quot;,
@@ -142,7 +151,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Parctice12/Student-By-Year-Old/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -243,7 +252,9 @@
       <workItem from="1744948173193" duration="3668000" />
       <workItem from="1744958081168" duration="12536000" />
       <workItem from="1745140848844" duration="3296000" />
-      <workItem from="1745166791649" duration="2790000" />
+      <workItem from="1745166791649" duration="3930000" />
+      <workItem from="1745200448076" duration="6678000" />
+      <workItem from="1745208559324" duration="121000" />
     </task>
     <servers />
   </component>
@@ -652,9 +663,19 @@
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Demerger.java</url>
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Demerging.java</url>
           <line>11</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
