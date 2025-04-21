@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/HashMap-HashSet/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -143,7 +145,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Parctice12/HashMap-HashSet/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Parctice12/Comparable/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -248,7 +250,8 @@
       <workItem from="1745200448076" duration="6678000" />
       <workItem from="1745208559324" duration="809000" />
       <workItem from="1745209715049" duration="1292000" />
-      <workItem from="1745215209959" duration="1083000" />
+      <workItem from="1745215209959" duration="2492000" />
+      <workItem from="1745218841189" duration="120000" />
     </task>
     <servers />
   </component>
