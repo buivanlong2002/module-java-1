@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Exercise12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/Product-Management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/src/PriceDecreaseComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/src/PriceIncreaseComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/src/ProductManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -55,104 +59,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AddElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalEdible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BodyMassIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterOccurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckBracketsStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CircleComparatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CircleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareCircleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertDecimalToBinary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertNumberToWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertTemperature.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountStudentPass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CylinderTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DayOfMonth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeleteElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demerger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericStackClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Geometry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestCommonFactor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfaceColorable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterfaceResizeable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYearCaculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Linear_Equation_Resolver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListQueueClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaterialManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxElementArray2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MegreArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinElementArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovablePointTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyListTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyQueueTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyStackTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOccurrencesWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Point2DTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Point3DTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeLess.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueLinkedListCircular.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShapeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumColumn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumDiagonal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SystemTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMyList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable_DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AbsoluteNumberTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CylinderTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzBuzzTranslateTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.NextDayCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SimpleCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TennisGameTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TriangleClassificationTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/SimpleCalculator&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Parctice12/Comparable/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddElement.executor": "Run",
+    "Application.AnimalEdible.executor": "Run",
+    "Application.BodyMassIndex.executor": "Run",
+    "Application.CalculatorTest.executor": "Run",
+    "Application.ChangeArray.executor": "Run",
+    "Application.CharacterOccurrences.executor": "Run",
+    "Application.CheckBracketsStack.executor": "Run",
+    "Application.CircleComparatorTest.executor": "Run",
+    "Application.CircleTest.executor": "Run",
+    "Application.CompareCircleTest.executor": "Run",
+    "Application.ConvertDecimalToBinary.executor": "Run",
+    "Application.ConvertNumberToWords.executor": "Run",
+    "Application.ConvertTemperature.executor": "Run",
+    "Application.CountStudentPass.executor": "Run",
+    "Application.Currency.executor": "Run",
+    "Application.CylinderTest.executor": "Run",
+    "Application.DayOfMonth.executor": "Run",
+    "Application.DeleteElement.executor": "Run",
+    "Application.Demerger.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.FizzBuzzTest.executor": "Run",
+    "Application.GenericStackClient.executor": "Run",
+    "Application.Geometry.executor": "Run",
+    "Application.GreatestCommonFactor.executor": "Run",
+    "Application.IndexArray.executor": "Run",
+    "Application.Interest.executor": "Run",
+    "Application.InterfaceColorable.executor": "Run",
+    "Application.InterfaceResizeable.executor": "Run",
+    "Application.LeapYearCaculator.executor": "Run",
+    "Application.Linear_Equation_Resolver.executor": "Run",
+    "Application.LinkedListQueueClient.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaterialManager.executor": "Run",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaxElementArray2D.executor": "Run",
+    "Application.MegreArray.executor": "Run",
+    "Application.MinElement.executor": "Run",
+    "Application.MinElementArray.executor": "Run",
+    "Application.MovablePointTest.executor": "Run",
+    "Application.MyLinkedListTest.executor": "Run",
+    "Application.MyListTest.executor": "Run",
+    "Application.MyQueueTest.executor": "Run",
+    "Application.MyStackTest.executor": "Run",
+    "Application.NumberOccurrencesWord.executor": "Run",
+    "Application.PalindromeQueue.executor": "Run",
+    "Application.Point2DTest.executor": "Run",
+    "Application.Point3DTest.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeLess.executor": "Run",
+    "Application.QueueLinkedListCircular.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ShapeTest.executor": "Run",
+    "Application.SquareTest.executor": "Run",
+    "Application.SumColumn.executor": "Run",
+    "Application.SumDiagonal.executor": "Run",
+    "Application.SystemTime.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestCircle.executor": "Run",
+    "Application.TestMyLinkedList.executor": "Run",
+    "Application.TestMyList.executor": "Run",
+    "Application.TestPro.executor": "Run",
+    "Application.TriangleTest.executor": "Run",
+    "Application.Variable_DataType.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.main.executor": "Run",
+    "JUnit.AbsoluteNumberTest.executor": "Run",
+    "JUnit.CylinderTest.executor": "Run",
+    "JUnit.FizzBuzzTranslateTest.executor": "Run",
+    "JUnit.NextDayCalculatorTest.executor": "Run",
+    "JUnit.SimpleCalculatorTest.executor": "Run",
+    "JUnit.TennisGameTest.executor": "Run",
+    "JUnit.TriangleClassificationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/SimpleCalculator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Exercise12/Product-Management/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\SimpleCalculator" />
@@ -251,7 +255,7 @@
       <workItem from="1745208559324" duration="809000" />
       <workItem from="1745209715049" duration="1292000" />
       <workItem from="1745215209959" duration="2492000" />
-      <workItem from="1745218841189" duration="120000" />
+      <workItem from="1745218841189" duration="4888000" />
     </task>
     <servers />
   </component>
@@ -673,6 +677,11 @@
           <url>file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/Exercise12/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
