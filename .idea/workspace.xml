@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/src/AlgorithmComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/BinaryRecursive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,6 +59,7 @@
     "Application.AddElement.executor": "Run",
     "Application.AlgorithmComplexity.executor": "Run",
     "Application.AnimalEdible.executor": "Run",
+    "Application.BinaryRecursive.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BodyMassIndex.executor": "Run",
     "Application.CalculatorTest.executor": "Run",
@@ -148,7 +150,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/Parctice13/Algorithm-Complexity/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -260,7 +262,7 @@
       <workItem from="1745244852974" duration="6418000" />
       <workItem from="1745284128136" duration="5148000" />
       <workItem from="1745292798844" duration="4786000" />
-      <workItem from="1745305041859" duration="2765000" />
+      <workItem from="1745305041859" duration="3741000" />
     </task>
     <servers />
   </component>
@@ -697,6 +699,11 @@
           <url>file://$PROJECT_DIR$/Search-Algorithm/Exercise13/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
