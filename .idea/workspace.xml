@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +254,7 @@
       <workItem from="1745225574466" duration="1054000" />
       <workItem from="1745226761305" duration="3812000" />
       <workItem from="1745244852974" duration="6418000" />
-      <workItem from="1745284128136" duration="1239000" />
+      <workItem from="1745284128136" duration="2621000" />
     </task>
     <servers />
   </component>

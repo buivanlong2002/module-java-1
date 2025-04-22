@@ -6,6 +6,10 @@ public class MyMapTest {
         System.out.println("Put Tran: " + map.put("Tran", 20));
         System.out.println("Put Hoang: " + map.put("Hoang", 20));
         System.out.println("Put Marco again: " + map.put("Marco", 15));
+        System.out.println("Put null: " + map.put(null, 20));
+        System.out.println("Put null: " + map.put(null , 30));
+        System.out.println("Put Hoa: " + map.put("Hoa", null));
+        System.out.println("Put Hog: " + map.put("Hog", null));
 
         System.out.println("Get Marco: " + map.get("Marco"));
         System.out.println("Get Tran: " + map.get("Tran"));
