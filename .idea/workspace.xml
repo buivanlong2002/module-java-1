@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/BinaryRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String-Consecutive/src/CalculateComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String-Consecutive/src/StringLongestConsecutive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -116,6 +116,7 @@
     "Application.ReverseString.executor": "Run",
     "Application.ShapeTest.executor": "Run",
     "Application.SquareTest.executor": "Run",
+    "Application.StringLongestConsecutive.executor": "Run",
     "Application.SumColumn.executor": "Run",
     "Application.SumDiagonal.executor": "Run",
     "Application.SystemTime.executor": "Run",
@@ -150,7 +151,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/Exercise13/Longest-Ascending-String-Consecutive/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -262,7 +263,7 @@
       <workItem from="1745244852974" duration="6418000" />
       <workItem from="1745284128136" duration="5148000" />
       <workItem from="1745292798844" duration="4786000" />
-      <workItem from="1745305041859" duration="3741000" />
+      <workItem from="1745305041859" duration="5894000" />
     </task>
     <servers />
   </component>
