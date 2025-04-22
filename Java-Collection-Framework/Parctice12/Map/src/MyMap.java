@@ -1,8 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class MyMap<K, V> {
-    private List<Entry<K, V>> entries;
+    private final List<Entry<K, V>> entries;
 
     public MyMap() {
         entries = new ArrayList<>();
@@ -10,7 +11,7 @@ public class MyMap<K, V> {
 
     public V put(K key, V value) {
         for (Entry<K, V> entry : entries) {
-            if (entry.key.equals(key)) {
+            if (Objects.equals(entry.key, key)) {
                 V oldValue = entry.value;
                 entry.value = value;
                 return oldValue;
@@ -22,7 +23,7 @@ public class MyMap<K, V> {
 
     public V get(K key) {
         for (Entry<K, V> entry : entries) {
-            if (entry.key.equals(key)) {
+            if (Objects.equals(entry.key, key)) {
                 return entry.value;
             }
         }
@@ -31,7 +32,7 @@ public class MyMap<K, V> {
 
     public V remove(K key) {
         for (int i = 0; i < entries.size(); i++) {
-            if (entries.get(i).key.equals(key)) {
+            if (Objects.equals(entries.get(i).key, key)) {
                 V value = entries.get(i).value;
                 entries.remove(i);
                 return value;
@@ -42,7 +43,7 @@ public class MyMap<K, V> {
 
     public boolean containsKey(K key) {
         for (Entry<K, V> entry : entries) {
-            if (entry.key.equals(key)) {
+            if (Objects.equals(entry.key, key)) {
                 return true;
             }
         }
@@ -51,7 +52,7 @@ public class MyMap<K, V> {
 
     public boolean containsValue(V value) {
         for (Entry<K, V> entry : entries) {
-            if (entry.value.equals(value)) {
+            if (Objects.equals(entry.value, value)) {
                 return true;
             }
         }

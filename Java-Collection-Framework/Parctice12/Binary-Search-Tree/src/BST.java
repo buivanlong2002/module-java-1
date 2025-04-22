@@ -24,7 +24,7 @@ public class BST<E extends Comparable<E>> extends AbstractTree<E> {
                     parent = current;
                     current = current.right;
                 } else
-                    return false; /*Duplicate node not inserted*/
+                    return false;
             }
             if (e.compareTo(parent.element) < 0) {
                 parent.left = createNewNode(e);
