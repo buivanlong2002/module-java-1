@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" />
@@ -90,6 +91,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
