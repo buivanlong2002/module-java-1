@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/src/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Map/MyMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Map/MyMapTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +147,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Java-Collection-Framework/Parctice12/Binary-Search-Tree/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -254,7 +257,8 @@
       <workItem from="1745225574466" duration="1054000" />
       <workItem from="1745226761305" duration="3812000" />
       <workItem from="1745244852974" duration="6418000" />
-      <workItem from="1745284128136" duration="2621000" />
+      <workItem from="1745284128136" duration="5148000" />
+      <workItem from="1745292798844" duration="3814000" />
     </task>
     <servers />
   </component>
@@ -681,6 +685,11 @@
           <url>file://$PROJECT_DIR$/Java-Collection-Framework/Exercise12/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
