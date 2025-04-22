@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Search-Algorithm/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Exercise13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String/Longest-Ascending-String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String/src/LongestAscendingString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Map/MyMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Map/MyMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/src/MyMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.AddElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.AnimalEdible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
     &quot;Application.BodyMassIndex.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculatorTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.ChangeArray.executor&quot;: &quot;Run&quot;,
@@ -88,6 +89,7 @@
     &quot;Application.LeapYearCaculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.Linear_Equation_Resolver.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedListQueueClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestAscendingString.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaterialManager.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
@@ -147,7 +149,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minht/Desktop/CodeGym Module2/Search-Algorithm/Exercise13/Longest-Ascending-Sequence/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -258,7 +260,8 @@
       <workItem from="1745226761305" duration="3812000" />
       <workItem from="1745244852974" duration="6418000" />
       <workItem from="1745284128136" duration="5148000" />
-      <workItem from="1745292798844" duration="3814000" />
+      <workItem from="1745292798844" duration="4786000" />
+      <workItem from="1745305041859" duration="715000" />
     </task>
     <servers />
   </component>
@@ -687,9 +690,14 @@
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Search-Algorithm/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Parctice13/src/Main.java</url>
           <line>11</line>
-          <option name="timeStamp" value="93" />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Exercise13/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
