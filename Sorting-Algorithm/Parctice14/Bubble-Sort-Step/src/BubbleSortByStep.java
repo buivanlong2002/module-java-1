@@ -9,6 +9,7 @@ public class BubbleSortByStep {
         System.out.println("Enter " + list.length + " values:");
         for (int i = 0; i < list.length; i++) {
             list[i] = scanner.nextInt();
+            scanner.nextLine();
         }
         System.out.print("Your input list: ");
         for (int element : list) {

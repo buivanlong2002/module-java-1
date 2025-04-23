@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/BubbleSortByStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/src/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Bubble-Sort-Step/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/BubbleSortByStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/BubbleSortByStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +88,7 @@
     "Application.Geometry.executor": "Run",
     "Application.GreatestCommonFactor.executor": "Run",
     "Application.IndexArray.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.Interest.executor": "Run",
     "Application.InterfaceColorable.executor": "Run",
     "Application.InterfaceResizeable.executor": "Run",
@@ -115,6 +119,7 @@
     "Application.Rectangle.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.ShapeTest.executor": "Run",
     "Application.SquareTest.executor": "Run",
     "Application.StringLongestConsecutive.executor": "Run",
@@ -153,7 +158,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Sorting-Algorithm/Exercise14/Insertion-Sort/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -268,7 +273,7 @@
       <workItem from="1745305041859" duration="11526000" />
       <workItem from="1745334221460" duration="647000" />
       <workItem from="1745335102518" duration="4414000" />
-      <workItem from="1745370573770" duration="1993000" />
+      <workItem from="1745370573770" duration="5280000" />
     </task>
     <servers />
   </component>
@@ -722,9 +727,14 @@
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Exercise14/src/Main.java</url>
           <line>11</line>
-          <option name="timeStamp" value="103" />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
