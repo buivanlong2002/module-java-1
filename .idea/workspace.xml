@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/src/ArrayExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Bubble-Sort-Step/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/BubbleSortByStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/src/BubbleSortByStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Demo-Algorithm-Complexity/TimeComplexityExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Demo-Algorithm-Complexity/TimeComplexityExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/src/TimeComplexityExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/src/TimeComplexityExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Sorting-Algorithm/Exercise14/Insertion-Sort/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Exception-Handling-Debug/Parctice15/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -175,11 +174,11 @@
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Resizeable\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Exception-Handling-Debug\Parctice15" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\Parctice9" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Inherit-Java\Parctice6" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Class-Object-In-Java" />
-      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Introduction to Java\Parctice" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -273,7 +272,7 @@
       <workItem from="1745305041859" duration="11526000" />
       <workItem from="1745334221460" duration="647000" />
       <workItem from="1745335102518" duration="4414000" />
-      <workItem from="1745370573770" duration="5280000" />
+      <workItem from="1745370573770" duration="11345000" />
     </task>
     <servers />
   </component>
@@ -735,6 +734,21 @@
           <url>file://$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

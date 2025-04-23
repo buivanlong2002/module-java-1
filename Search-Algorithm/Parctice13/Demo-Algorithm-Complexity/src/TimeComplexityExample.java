@@ -42,7 +42,6 @@ public class TimeComplexityExample {
         for (int j = low; j < high; j++) {
             if (arr[j] < pivot) {
                 i++;
-                // Hoán đổi arr[i] và arr[j]
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
@@ -69,6 +68,12 @@ public class TimeComplexityExample {
                 }
             }
         }
+    }
+
+    // O(2^n): Fibonacci đệ quy
+    public static int fibonacci(int n) {
+        if (n <= 1) return n;
+        return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
     public static void main(String[] args) {
@@ -121,8 +126,16 @@ public class TimeComplexityExample {
         System.out.println("O(n^2) - Bubble sort done.");
         System.out.println("Time: " + (end - start) + " ns\n");
 
+        // O(2^n) - Fibonacci
+        int fibIndex = 40; // Bạn có thể thay đổi giá trị này để thử nghiệm
+        start = System.nanoTime();
+        int fibResult = fibonacci(fibIndex);
+        end = System.nanoTime();
+        System.out.println("O(2^n) - Fibonacci of " + fibIndex + " is: " + fibResult);
+        System.out.println("Time: " + (end - start) + " ns\n");
+
         endAll = System.nanoTime();
 
-        System.out.println("O(n log n) + O(m^2) - TimeComplexity: " + (endAll - startAll) + " ns\n");
+        System.out.println("O(n log n) + O(m^2) + O(2^n) - TimeComplexity: " + (endAll - startAll) + " ns\n");
     }
 }

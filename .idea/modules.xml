@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" filepath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/ArrayIndex.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/ArrayIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
@@ -42,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Exception-Handling-Debug.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Exception-Handling-Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Exercise10.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Exercise10.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Exercise11.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Exercise11.iml" />
@@ -103,6 +105,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
