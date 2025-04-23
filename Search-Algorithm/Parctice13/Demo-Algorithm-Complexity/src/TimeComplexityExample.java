@@ -76,7 +76,9 @@ public class TimeComplexityExample {
         int[] originalArr = new Random().ints(size, 0, size).toArray();
         int[] arr;
 
-        long start, end;
+        long start, end, startAll, endAll;
+
+        startAll = System.nanoTime();
 
         // O(1)
         start = System.nanoTime();
@@ -111,11 +113,16 @@ public class TimeComplexityExample {
         System.out.println("Time: " + (end - start) + " ns\n");
 
         // O(n^2) - Bubble Sort
-        arr = Arrays.copyOf(originalArr, 11111);
+        int m = 11111;
+        arr = Arrays.copyOf(originalArr, m);
         start = System.nanoTime();
         bubbleSort(arr);
         end = System.nanoTime();
         System.out.println("O(n^2) - Bubble sort done.");
         System.out.println("Time: " + (end - start) + " ns\n");
+
+        endAll = System.nanoTime();
+
+        System.out.println("O(n log n) + O(m^2) - TimeComplexity: " + (endAll - startAll) + " ns\n");
     }
 }
