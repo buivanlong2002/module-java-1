@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/src/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/TriangleException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -133,6 +133,7 @@
     "Application.TestMyList.executor": "Run",
     "Application.TestPro.executor": "Run",
     "Application.TimeComplexityExample.executor": "Run",
+    "Application.TriangleException.executor": "Run",
     "Application.TriangleTest.executor": "Run",
     "Application.Variable_DataType.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -158,7 +159,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Exception-Handling-Debug/Parctice15/Number-Format-Exception/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -273,7 +274,7 @@
       <workItem from="1745305041859" duration="11526000" />
       <workItem from="1745334221460" duration="647000" />
       <workItem from="1745335102518" duration="4414000" />
-      <workItem from="1745370573770" duration="12303000" />
+      <workItem from="1745370573770" duration="14139000" />
     </task>
     <servers />
   </component>
@@ -752,9 +753,9 @@
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/src/Main.java</url>
           <line>11</line>
-          <option name="timeStamp" value="111" />
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
