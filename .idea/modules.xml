@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort/Bubble-Sort.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort/Bubble-Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" />
@@ -98,6 +99,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
@@ -121,6 +123,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Reverse-Array-String-Stack/Reverse-Array-String-Stack.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Reverse-Array-String-Stack/Reverse-Array-String-Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
