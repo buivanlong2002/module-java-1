@@ -30,15 +30,10 @@ public class BinaryRecursive {
     }
     public static int binarySearch(int[] arr, int left, int right, int value) {
         int mid = (left + right) / 2;
-        while (left <= right) {
-            if (arr[mid] == value) {
-                return mid;
-            } else if (arr[mid] > value) {
-                return binarySearch(arr, left, mid - 1, value);
-            } else {
-                return binarySearch(arr, mid + 1, right, value);
-            }
-        }
-        return -1;
+        if (left > right) return -1;
+
+        if (arr[mid] == value) return mid;
+        else if (arr[mid] > value) return binarySearch(arr, left, mid - 1, value);
+        else return binarySearch(arr, mid + 1, right, value);
     }
 }
