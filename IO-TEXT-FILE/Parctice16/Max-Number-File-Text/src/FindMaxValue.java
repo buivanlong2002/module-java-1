@@ -1,4 +1,5 @@
 import java.util.List;
+import java.util.Scanner;
 
 public class FindMaxValue {
     public static int findMax(List<Integer> numbers) {
@@ -15,12 +16,18 @@ public class FindMaxValue {
     }
     public static void main(String[] args) {
         ReadWriteFile readWriteFile = new ReadWriteFile();
-        List<Integer> numbers = readWriteFile.readFile("numbers.txt");
+//        System.out.println("Enter filePath numbers: ");
+//        Scanner scanner = new Scanner(System.in);
+//        String path = scanner.nextLine();
+        List<Integer> numbers = readWriteFile.readFile("C:\\Users\\minht\\Desktop\\CodeGym " +
+                "Module2\\IO-TEXT-FILE\\Parctice16\\Max-Number-File-Text\\numbers.txt");
         if (numbers.isEmpty()) {
             System.out.println("No numbers found");
             return;
         }
         int maxValue = findMax(numbers);
-        readWriteFile.writeFile("result.txt", maxValue);
+//        System.out.println("Enter file path output: ");
+//        String output = scanner.nextLine();
+        readWriteFile.writeFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\IO-TEXT-FILE\\Parctice16\\Max-Number-File-Text\\result.txt", maxValue);
     }
 }
