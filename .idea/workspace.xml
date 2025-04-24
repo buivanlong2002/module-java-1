@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/IllegalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/TriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/IO-TEXT-FILE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/Test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Bubble-Sort/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +120,8 @@
     "Application.Prime.executor": "Run",
     "Application.PrimeLess.executor": "Run",
     "Application.QueueLinkedListCircular.executor": "Run",
+    "Application.ReadFileExample.executor": "Run",
+    "Application.ReadFileName.executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseString.executor": "Run",
@@ -159,7 +165,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -274,7 +280,9 @@
       <workItem from="1745305041859" duration="11526000" />
       <workItem from="1745334221460" duration="647000" />
       <workItem from="1745335102518" duration="4414000" />
-      <workItem from="1745370573770" duration="14139000" />
+      <workItem from="1745370573770" duration="15515000" />
+      <workItem from="1745426103189" duration="1477000" />
+      <workItem from="1745457037401" duration="8341000" />
     </task>
     <servers />
   </component>
@@ -756,6 +764,16 @@
           <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
