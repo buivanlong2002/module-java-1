@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/IO-TEXT-FILE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/ReadFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/Test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/Max-Number-File-Text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/FindMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/ReadWriteFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Bubble-Sort/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +86,7 @@
     "Application.DeleteElement.executor": "Run",
     "Application.Demerger.executor": "Run",
     "Application.EvenNumber.executor": "Run",
+    "Application.FindMaxValue.executor": "Debug",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.GenericStackClient.executor": "Run",
     "Application.Geometry.executor": "Run",
@@ -104,6 +104,7 @@
     "Application.MaterialManager.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MaxElementArray2D.executor": "Run",
+    "Application.MaxNumberFile.executor": "Run",
     "Application.MegreArray.executor": "Run",
     "Application.MinElement.executor": "Run",
     "Application.MinElementArray.executor": "Run",
@@ -165,7 +166,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -282,7 +283,9 @@
       <workItem from="1745335102518" duration="4414000" />
       <workItem from="1745370573770" duration="15515000" />
       <workItem from="1745426103189" duration="1477000" />
-      <workItem from="1745457037401" duration="8341000" />
+      <workItem from="1745457037401" duration="9663000" />
+      <workItem from="1745479604961" duration="298000" />
+      <workItem from="1745480204877" duration="621000" />
     </task>
     <servers />
   </component>
@@ -774,6 +777,25 @@
           <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/FindMaxValue.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/FindMaxValue.java</url>
+          <line>3</line>
+          <properties class="FindMaxValue" method="findMax">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
