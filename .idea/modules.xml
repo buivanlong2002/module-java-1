@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/Convert-Decimal-To-Binary.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/Convert-Decimal-To-Binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" filepath="$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Copy-File-Large-Capacity/Copy-File-Large-Capacity.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Copy-File-Large-Capacity/Copy-File-Large-Capacity.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/Copy-File-Text.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/Copy-File-Text.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" filepath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" />
@@ -115,6 +117,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
@@ -150,6 +153,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/TennisGame.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/TennisGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" filepath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" />
