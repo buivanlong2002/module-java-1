@@ -1,0 +1,3 @@
+�� sr java.util.ArrayListx����a� I sizexp   w   sr Product�E�B�?� I priceL brandt Ljava/lang/String;L descriptionq ~ L idq ~ L nameq ~ xp  �t Applet 3Smartphone cao cấp với chip A17 và camera 48MPt P1t 
+iPhone 15 Prosq ~   �t Samsungt 1Flagship Android với màn hình AMOLED 6.8 incht P2t Galaxy S24 Ultrasq ~   ?t Lenovot (Laptop doanh nhân siêu nhẹ, pin lâut P3t ThinkPad X1 Carbonsq ~    �q ~ t /Tai nghe không dây chống ồn chủ độngt P4t 
+AirPods Pro 2sq ~   �t Sonyt =Tai nghe over-ear với chất lượng âm thanh đỉnh caot P5t Sony WH-1000XM5sq ~    t tt yt p6t rrx

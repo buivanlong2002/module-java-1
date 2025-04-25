@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/Manager-Product.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/products.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/Copy-File-Binary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/src/CopyFileBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/target.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/src/CopyFileText.java" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/src/CopyFileText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +80,7 @@
     "Application.ConvertNumberToWords.executor": "Run",
     "Application.ConvertTemperature.executor": "Run",
     "Application.CopyFile.executor": "Run",
+    "Application.CopyFileBinary.executor": "Run",
     "Application.CopyFileText.executor": "Run",
     "Application.CountStudentPass.executor": "Run",
     "Application.Currency.executor": "Run",
@@ -172,7 +172,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Binary-File-Serialization/Exercise17/Manager-Product/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Binary-File-Serialization/Exercise17/Copy-File-Binary/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -297,7 +297,7 @@
       <workItem from="1745544126926" duration="1945000" />
       <workItem from="1745546819618" duration="607000" />
       <workItem from="1745547797494" duration="5162000" />
-      <workItem from="1745554815455" duration="4133000" />
+      <workItem from="1745554815455" duration="5363000" />
     </task>
     <servers />
   </component>
