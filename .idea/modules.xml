@@ -122,6 +122,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" filepath="$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
@@ -161,6 +162,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" filepath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" />
