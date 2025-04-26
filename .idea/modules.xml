@@ -58,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Exercise15.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Exercise15.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" />
@@ -110,6 +111,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" filepath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" />
