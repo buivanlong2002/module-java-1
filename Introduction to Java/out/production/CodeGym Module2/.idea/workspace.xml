@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Threading/Parctice18/Racing-Cars/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Parctice18/Racing-Cars/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MarcoHoang&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MarcoHoang/CodeGym-Module2.git&quot;,
+    &quot;accountId&quot;: &quot;28f6d89d-1cc8-44b0-9d7d-a10836f86f0c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vFMwhzvI1SElLr0dAyxMBE4WyJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddElement.executor": "Run",
+    "Application.AlgorithmComplexity.executor": "Run",
+    "Application.AnimalEdible.executor": "Run",
+    "Application.ArrayExample.executor": "Run",
+    "Application.BinaryRecursive.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BodyMassIndex.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BubbleSortByStep.executor": "Run",
+    "Application.CalculationExample.executor": "Run",
+    "Application.CalculatorTest.executor": "Run",
+    "Application.ChangeArray.executor": "Run",
+    "Application.CharacterOccurrences.executor": "Run",
+    "Application.CheckBracketsStack.executor": "Run",
+    "Application.CircleComparatorTest.executor": "Run",
+    "Application.CircleTest.executor": "Run",
+    "Application.CompareCircleTest.executor": "Run",
+    "Application.ConvertDecimalToBinary.executor": "Run",
+    "Application.ConvertNumberToWords.executor": "Run",
+    "Application.ConvertTemperature.executor": "Run",
+    "Application.CopyFile.executor": "Run",
+    "Application.CopyFileBinary.executor": "Run",
+    "Application.CopyFileText.executor": "Run",
+    "Application.CountStudentPass.executor": "Run",
+    "Application.Currency.executor": "Run",
+    "Application.CylinderTest.executor": "Run",
+    "Application.DayOfMonth.executor": "Run",
+    "Application.DeleteElement.executor": "Run",
+    "Application.Demerger.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.FindMaxValue.executor": "Run",
+    "Application.FizzBuzzTest.executor": "Run",
+    "Application.GenericStackClient.executor": "Run",
+    "Application.Geometry.executor": "Run",
+    "Application.GreatestCommonFactor.executor": "Run",
+    "Application.IndexArray.executor": "Run",
+    "Application.InputStreamExample.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.Interest.executor": "Run",
+    "Application.InterfaceColorable.executor": "Run",
+    "Application.InterfaceResizeable.executor": "Run",
+    "Application.LeapYearCaculator.executor": "Run",
+    "Application.Linear_Equation_Resolver.executor": "Run",
+    "Application.LinkedListQueueClient.executor": "Run",
+    "Application.LongestAscendingString.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaterialManager.executor": "Run",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaxElementArray2D.executor": "Run",
+    "Application.MaxNumberFile.executor": "Run",
+    "Application.MegreArray.executor": "Run",
+    "Application.MinElement.executor": "Run",
+    "Application.MinElementArray.executor": "Run",
+    "Application.MovablePointTest.executor": "Run",
+    "Application.MyLinkedListTest.executor": "Run",
+    "Application.MyListTest.executor": "Run",
+    "Application.MyMapTest.executor": "Run",
+    "Application.MyQueueTest.executor": "Run",
+    "Application.MyStackTest.executor": "Run",
+    "Application.NumberOccurrencesWord.executor": "Run",
+    "Application.OutputStreamExample.executor": "Run",
+    "Application.PalindromeQueue.executor": "Run",
+    "Application.Point2DTest.executor": "Run",
+    "Application.Point3DTest.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeLess.executor": "Run",
+    "Application.QueueLinkedListCircular.executor": "Run",
+    "Application.ReadByteConsole.executor": "Run",
+    "Application.ReadFileExample.executor": "Run",
+    "Application.ReadFileName.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.ShapeTest.executor": "Run",
+    "Application.SquareTest.executor": "Run",
+    "Application.StringLongestConsecutive.executor": "Run",
+    "Application.SumColumn.executor": "Run",
+    "Application.SumDiagonal.executor": "Run",
+    "Application.SystemTime.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestBST.executor": "Run",
+    "Application.TestCircle.executor": "Run",
+    "Application.TestMyLinkedList.executor": "Run",
+    "Application.TestMyList.executor": "Run",
+    "Application.TestPro.executor": "Run",
+    "Application.TimeComplexityExample.executor": "Run",
+    "Application.TriangleException.executor": "Run",
+    "Application.TriangleTest.executor": "Run",
+    "Application.Variable_DataType.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.main.executor": "Run",
+    "JUnit.AbsoluteNumberTest.executor": "Run",
+    "JUnit.CylinderTest.executor": "Run",
+    "JUnit.FizzBuzzTranslateTest.executor": "Run",
+    "JUnit.NextDayCalculatorTest.executor": "Run",
+    "JUnit.SimpleCalculatorTest.executor": "Run",
+    "JUnit.TennisGameTest.executor": "Run",
+    "JUnit.TriangleClassificationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Automated-Testing-TDD/SimpleCalculator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Threading/Parctice18/Racing-Cars/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\SimpleCalculator" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Exercise8\TennisGame" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Colorable\src" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Abstract-Class-Interface\Exercise7\Interface-Resizeable\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Exception-Handling-Debug\Parctice15" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\Parctice9" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Inherit-Java\Parctice6" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Class-Object-In-Java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="CalculatorTest" />
+      <recent name="Calculator" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="" />
+      <created>1743736612204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743736612204</updated>
+      <workItem from="1743736614965" duration="1875000" />
+      <workItem from="1743738809335" duration="2142000" />
+      <workItem from="1743741309786" duration="7232000" />
+      <workItem from="1743921778825" duration="3528000" />
+      <workItem from="1743952405089" duration="3699000" />
+      <workItem from="1743956322084" duration="4330000" />
+      <workItem from="1743999784157" duration="2730000" />
+      <workItem from="1744010041778" duration="1227000" />
+      <workItem from="1744022313899" duration="2004000" />
+      <workItem from="1744033661084" duration="6422000" />
+      <workItem from="1744078549982" duration="2000000" />
+      <workItem from="1744083035546" duration="603000" />
+      <workItem from="1744084007943" duration="2811000" />
+      <workItem from="1744099653462" duration="416000" />
+      <workItem from="1744100202976" duration="3084000" />
+      <workItem from="1744106011339" duration="1254000" />
+      <workItem from="1744107588518" duration="310000" />
+      <workItem from="1744161015254" duration="5501000" />
+      <workItem from="1744166676885" duration="1087000" />
+      <workItem from="1744170557233" duration="985000" />
+      <workItem from="1744187212853" duration="3914000" />
+      <workItem from="1744248208243" duration="5616000" />
+      <workItem from="1744254878558" duration="713000" />
+      <workItem from="1744266721633" duration="2142000" />
+      <workItem from="1744273348711" duration="4792000" />
+      <workItem from="1744595185269" duration="6434000" />
+      <workItem from="1744612208785" duration="8804000" />
+      <workItem from="1744683264810" duration="9888000" />
+      <workItem from="1744698346126" duration="3060000" />
+      <workItem from="1744701789635" duration="1187000" />
+      <workItem from="1744703020321" duration="4004000" />
+      <workItem from="1744708302292" duration="1711000" />
+      <workItem from="1744710061205" duration="2644000" />
+      <workItem from="1744765359318" duration="4177000" />
+      <workItem from="1744769820202" duration="1806000" />
+      <workItem from="1744771751517" duration="4305000" />
+      <workItem from="1744776396143" duration="348000" />
+      <workItem from="1744777212898" duration="4023000" />
+      <workItem from="1744787835914" duration="380000" />
+      <workItem from="1744788317388" duration="286000" />
+      <workItem from="1744789518312" duration="2213000" />
+      <workItem from="1744792024412" duration="2456000" />
+      <workItem from="1744852308627" duration="4354000" />
+      <workItem from="1744861029606" duration="5448000" />
+      <workItem from="1744873912702" duration="3404000" />
+      <workItem from="1744878054473" duration="15360000" />
+      <workItem from="1744938168206" duration="3674000" />
+      <workItem from="1744941941416" duration="4657000" />
+      <workItem from="1744948173193" duration="3668000" />
+      <workItem from="1744958081168" duration="12536000" />
+      <workItem from="1745140848844" duration="3296000" />
+      <workItem from="1745166791649" duration="3930000" />
+      <workItem from="1745200448076" duration="6678000" />
+      <workItem from="1745208559324" duration="809000" />
+      <workItem from="1745209715049" duration="1292000" />
+      <workItem from="1745215209959" duration="2492000" />
+      <workItem from="1745218841189" duration="6527000" />
+      <workItem from="1745225574466" duration="1054000" />
+      <workItem from="1745226761305" duration="3812000" />
+      <workItem from="1745244852974" duration="6418000" />
+      <workItem from="1745284128136" duration="5148000" />
+      <workItem from="1745292798844" duration="4786000" />
+      <workItem from="1745305041859" duration="11526000" />
+      <workItem from="1745334221460" duration="647000" />
+      <workItem from="1745335102518" duration="4414000" />
+      <workItem from="1745370573770" duration="15515000" />
+      <workItem from="1745426103189" duration="1477000" />
+      <workItem from="1745457037401" duration="9663000" />
+      <workItem from="1745479604961" duration="298000" />
+      <workItem from="1745480204877" duration="1118000" />
+      <workItem from="1745481412651" duration="5567000" />
+      <workItem from="1745510743621" duration="2214000" />
+      <workItem from="1745544126926" duration="1945000" />
+      <workItem from="1745546819618" duration="607000" />
+      <workItem from="1745547797494" duration="5162000" />
+      <workItem from="1745554815455" duration="10298000" />
+      <workItem from="1745639880896" duration="4042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Linear-Equation-Resolver/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/src/DayOfMonth.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Parctice1/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Index-Array/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Max-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Megre-Array/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Max-Element-Array-2D/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Min-Element-Array/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Class-Object-In-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Abstract-Class-Interface/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Minitest/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/lib/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Automated-Testing-TDD/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Absolute-Number-Calculator/src/AbsoluteNumberTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Reverse-Array-String-Stack/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/src/Demerging.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Collection-Framework/Exercise12/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Parctice13/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Exercise13/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Exercise14/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Binary-File-Serialization/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Binary-File-Serialization/Parctice17/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Binary-File-Serialization/Exercise17/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Threading/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

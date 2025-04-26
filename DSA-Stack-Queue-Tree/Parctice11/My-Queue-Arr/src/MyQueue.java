@@ -6,7 +6,7 @@ public class MyQueue {
     private int head = 0;
     private int tail = -1;
     private int currentSize = 0;
-    Queue
+
     public MyQueue(int queueSize) {
         this.capacity = queueSize;
         this.queueArr = new int[queueSize];
