@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/Minitest7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/history.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/orders.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/controller/OrderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/ClothingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/CustomerNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/ElectronicsOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/FurnitureOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/model/TotalPriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/view/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest6/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest6/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,6 +296,8 @@
       <workItem from="1745639880896" duration="4042000" />
       <workItem from="1745649799380" duration="11144000" />
       <workItem from="1745764041211" duration="4658000" />
+      <workItem from="1745768781939" duration="1243000" />
+      <workItem from="1745802673552" duration="37000" />
     </task>
     <servers />
   </component>

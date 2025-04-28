@@ -1,4 +1,6 @@
-package model;
+package controller;
+
+import model.Order;
 
 public class TotalPriceComparator implements java.util.Comparator<Order>{
     @Override
