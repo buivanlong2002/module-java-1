@@ -115,6 +115,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" filepath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Palindrome-Queue/Palindrome-Queue.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Palindrome-Queue/Palindrome-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" />
@@ -167,10 +168,12 @@
       <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/TestDemo/TestDemo.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/TestDemo/TestDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" filepath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_test/jdbc_test.iml" filepath="$PROJECT_DIR$/jdbc_test/jdbc_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" />
     </modules>
