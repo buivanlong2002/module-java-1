@@ -71,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Garbage-Collection-Demo/Garbage-Collection-Demo.iml" filepath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/Garbage-Collection-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/HashMap-HashSet/HashMap-HashSet.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/HashMap-HashSet/HashMap-HashSet.iml" />
@@ -160,6 +161,7 @@
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Regex/String-Regex.iml" filepath="$PROJECT_DIR$/String-Regex/String-Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" />
@@ -173,6 +175,7 @@
       <module fileurl="file://$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" filepath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Regex/Valiate-Email/Valiate-Email.iml" filepath="$PROJECT_DIR$/String-Regex/Valiate-Email/Valiate-Email.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc_test/jdbc_test.iml" filepath="$PROJECT_DIR$/jdbc_test/jdbc_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" />

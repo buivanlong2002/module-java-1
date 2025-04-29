@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Threading/Exercise18/Prime-Factorization/src/LazyPrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threading/Exercise18/Prime-Factorization/src/OptimizedPrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threading/Exercise18/Prime-Factorization/src/TestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/String-Regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Valiate-Email/Valiate-Email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Valiate-Email/src/TestEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Valiate-Email/src/ValiateEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/Garbage-Collection-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/src/GarbageCollectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -90,6 +93,7 @@
     "Application.EvenNumber.executor": "Run",
     "Application.FindMaxValue.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
+    "Application.GarbageCollectionDemo.executor": "Run",
     "Application.GenericStackClient.executor": "Run",
     "Application.Geometry.executor": "Run",
     "Application.GreatestCommonFactor.executor": "Run",
@@ -143,8 +147,10 @@
     "Application.Test.executor": "Run",
     "Application.TestBST.executor": "Run",
     "Application.TestCircle.executor": "Run",
+    "Application.TestEmail.executor": "Run",
     "Application.TestMyLinkedList.executor": "Run",
     "Application.TestMyList.executor": "Run",
+    "Application.TestPrime.executor": "Run",
     "Application.TestPro.executor": "Run",
     "Application.TestThread.executor": "Run",
     "Application.TimeComplexityExample.executor": "Run",
@@ -174,7 +180,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Threading/Exercise18/Prime-Factorization/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Valiate-Email/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -324,7 +330,9 @@
       <workItem from="1745822980435" duration="1054000" />
       <workItem from="1745824110186" duration="719000" />
       <workItem from="1745824882294" duration="3946000" />
-      <workItem from="1745831693518" duration="676000" />
+      <workItem from="1745831693518" duration="3015000" />
+      <workItem from="1745860734202" duration="900000" />
+      <workItem from="1745888868815" duration="1648000" />
     </task>
     <servers />
   </component>
@@ -856,6 +864,11 @@
           <url>file://$PROJECT_DIR$/jdbc_test/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String-Regex/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
