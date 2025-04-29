@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/Validate-Phone-Number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/src/PhoneNumberValidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +73,7 @@
     "Application.CheckBracketsStack.executor": "Run",
     "Application.CircleComparatorTest.executor": "Run",
     "Application.CircleTest.executor": "Run",
+    "Application.ClassNameValidate.executor": "Run",
     "Application.CompareCircleTest.executor": "Run",
     "Application.ConvertDecimalToBinary.executor": "Run",
     "Application.ConvertNumberToWords.executor": "Run",
@@ -175,7 +178,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Parctice19/Crawl-Song-Example/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Exercise19/Validate-Phone-Number/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -327,7 +330,7 @@
       <workItem from="1745824882294" duration="3946000" />
       <workItem from="1745831693518" duration="3015000" />
       <workItem from="1745860734202" duration="900000" />
-      <workItem from="1745888868815" duration="3526000" />
+      <workItem from="1745888868815" duration="3829000" />
     </task>
     <servers />
   </component>
@@ -869,6 +872,21 @@
           <url>file://$PROJECT_DIR$/String-Regex/Parctice19/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String-Regex/Exercise19/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String-Regex/Exercise19/Validate-Name-Class/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="136" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
