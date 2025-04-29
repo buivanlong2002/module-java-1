@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/Validate-Phone-Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/src/PhoneNumberValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/HtmlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/NewsExtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/GarbageCollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/GarbageCollectionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject$CleanupAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject$CleanupAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/src/GarbageCollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/src/GarbageCollectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +129,7 @@
     "Application.NumberOccurrencesWord.executor": "Run",
     "Application.OutputStreamExample.executor": "Run",
     "Application.PalindromeQueue.executor": "Run",
+    "Application.PhoneNumberValidate.executor": "Run",
     "Application.Point2DTest.executor": "Run",
     "Application.Point3DTest.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -178,7 +185,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Exercise19/Validate-Phone-Number/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Exercise19/Crawl-News/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -331,6 +338,9 @@
       <workItem from="1745831693518" duration="3015000" />
       <workItem from="1745860734202" duration="900000" />
       <workItem from="1745888868815" duration="3829000" />
+      <workItem from="1745892841016" duration="1441000" />
+      <workItem from="1745894763335" duration="1704000" />
+      <workItem from="1745908992228" duration="290000" />
     </task>
     <servers />
   </component>

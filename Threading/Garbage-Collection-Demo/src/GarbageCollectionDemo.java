@@ -18,9 +18,17 @@ public class GarbageCollectionDemo {
 
         MyObject obj3 = new MyObject("Object 3");
         MyObject obj4 = new MyObject("Object 4");
+
+        System.out.println("Before setting to null:");
+        obj3.printInfo();
+        obj4.printInfo();
+
         obj4 = obj3;
         obj3 = null;
-        System.out.println("\nAfter creating Object 3 and calling System.gc() again...");
+        System.out.println("\nAfter calling System.gc() again...");
+        System.gc();
+
+        new MyObject("Object 5");
         System.gc();
     }
 }
