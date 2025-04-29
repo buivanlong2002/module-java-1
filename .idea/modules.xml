@@ -60,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" filepath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" filepath="$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" />
@@ -179,6 +180,7 @@
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" filepath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" filepath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Regex/Exercise19/Validate-Name-Class/Validate-Name-Class.iml" filepath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Name-Class/Validate-Name-Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/Variable-DataType/Variable-DataType.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc_test/jdbc_test.iml" filepath="$PROJECT_DIR$/jdbc_test/jdbc_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" filepath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" />
