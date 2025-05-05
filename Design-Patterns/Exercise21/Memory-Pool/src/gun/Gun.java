@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Gun {
-    private int bulletCount = 1000;
+    private final int bulletCount = 1000;
 
     public void fire() {
         List<Bullet> plist = new ArrayList<>();
@@ -21,7 +21,7 @@ public class Gun {
                 System.out.print("-" + pp.getPosition());
                 if (pp.getPosition() == 10) {
                     plist.remove(pp);
-                    j--; // để tránh bỏ qua phần tử tiếp theo
+                    j--;
                 }
             }
             System.out.println();
@@ -42,7 +42,7 @@ public class Gun {
                 if (pp.getPosition() == 10) {
                     pool.freeItem(pp);
                     plist.remove(pp);
-                    j--; // tránh bỏ qua phần tử tiếp theo
+                    j--;
                 }
             }
             System.out.println();

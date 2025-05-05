@@ -3,7 +3,7 @@ package pool;
 import java.util.LinkedList;
 
 public abstract class MemoryPool<T> {
-    private LinkedList<T> free_items = new LinkedList<>();
+    private final LinkedList<T> free_items = new LinkedList<>();
 
     public void freeItem(T item) {
         free_items.add(item);
