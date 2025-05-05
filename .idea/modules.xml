@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAD-SOLID/Parctice20/Activity-Diagram/Activity-Diagram.iml" filepath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Activity-Diagram/Activity-Diagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" filepath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" />
@@ -120,6 +121,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" filepath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAD-SOLID/OOAD-SOLID.iml" filepath="$PROJECT_DIR$/OOAD-SOLID/OOAD-SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" filepath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Object-Pool/Object-Pool.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Object-Pool/Object-Pool.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" />
@@ -137,6 +139,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" filepath="$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" filepath="$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" filepath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
@@ -164,6 +167,7 @@
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/Selection-Sort.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/Selection-Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" filepath="$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" />
