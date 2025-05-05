@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc_test/src/config/DBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc_test/src/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc_test/src/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc_test/src/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/StudentApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/StudentApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc_test/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc_test/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc_test/src/StudentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc_test/src/StudentApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +172,7 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2",
+    "last_opened_file_path": "C:/Users/minht/Desktop/IT4552-Project-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -352,6 +337,7 @@
       <workItem from="1746002684723" duration="5632000" />
       <workItem from="1746352625273" duration="73000" />
       <workItem from="1746407468218" duration="11972000" />
+      <workItem from="1746432877800" duration="2567000" />
     </task>
     <servers />
   </component>
