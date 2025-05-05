@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/HtmlReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/NewsExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/DanTriNewsExtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/GarbageCollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/GarbageCollectionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject$CleanupAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject$CleanupAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Garbage-Collection-Demo/MyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/src/GarbageCollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/src/GarbageCollectionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Crawl-Song-Example/CrawlSongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Crawl-Song-Example/CrawlSongExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minitest/Minitest7/src/controller/OrderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/controller/OrderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/src/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/src/CrawlSongExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +87,7 @@
     "Application.CrawlSongExample.executor": "Run",
     "Application.Currency.executor": "Run",
     "Application.CylinderTest.executor": "Run",
+    "Application.DanTriNewsExtractor.executor": "Run",
     "Application.DayOfMonth.executor": "Run",
     "Application.DeleteElement.executor": "Run",
     "Application.Demerger.executor": "Run",
@@ -179,7 +176,7 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/LIB_CONNECTION_SQL/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -220,6 +217,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="CrawlSongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrawlSongExample" />
+      <module name="Crawl-Song-Example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentApp" />
       <module name="jdbc_test" />
@@ -229,6 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrawlSongExample" />
         <item itemvalue="Application.StudentApp" />
       </list>
     </recent_temporary>
@@ -340,7 +345,10 @@
       <workItem from="1745888868815" duration="3829000" />
       <workItem from="1745892841016" duration="1441000" />
       <workItem from="1745894763335" duration="1704000" />
-      <workItem from="1745908992228" duration="290000" />
+      <workItem from="1745908992228" duration="649000" />
+      <workItem from="1746002684723" duration="5632000" />
+      <workItem from="1746352625273" duration="73000" />
+      <workItem from="1746407468218" duration="4011000" />
     </task>
     <servers />
   </component>

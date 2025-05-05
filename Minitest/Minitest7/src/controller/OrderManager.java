@@ -22,8 +22,6 @@ public class OrderManager {
         } else {
             history.add("Added unknown type order to order list");
         }
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
@@ -36,8 +34,6 @@ public class OrderManager {
             System.out.println("Order not found");
             history.add("Failed to remove order by id: " + orderId);
         }
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
@@ -46,8 +42,6 @@ public class OrderManager {
             order.displayInfo();
         }
         history.add("Displayed all orders");
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
@@ -56,32 +50,24 @@ public class OrderManager {
             System.out.println("Order ID: " + order.getOrderId() + ", Total Price: " + order.calculateTotalPrice());
         }
         history.add("Displayed revenue report");
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
     public void sortByOrderDate() {
         Collections.sort(orders);
         history.add("Sorted by order date");
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
     public void sortByCustomerName() {
         orders.sort(new CustomerNameComparator());
         history.add("Sorted by customer name");
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
     public void sortByTotalPrice() {
         orders.sort(new TotalPriceComparator());
         history.add("Sorted by total price");
-        // saveToFile("C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\orders.dat",
-        // "C:\\Users\\minht\\Desktop\\CodeGym Module2\\Minitest\\Minitest7\\history.dat");
         saveToFile("orders.dat", "history.dat");
     }
 
@@ -97,7 +83,6 @@ public class OrderManager {
              ObjectOutputStream oosHistory = new ObjectOutputStream(new FileOutputStream(historyFilename))) {
 
             oosOrders.writeObject(orders);
-
             oosHistory.writeObject(history);
 
         } catch (IOException e) {
