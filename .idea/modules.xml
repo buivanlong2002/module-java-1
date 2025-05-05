@@ -65,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" filepath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" filepath="$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Exercise21/Exercise21.iml" filepath="$PROJECT_DIR$/Design-Patterns/Exercise21/Exercise21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Exercise21/Factory-Method-Exercise/Factory-Method-Exercise.iml" filepath="$PROJECT_DIR$/Design-Patterns/Exercise21/Factory-Method-Exercise/Factory-Method-Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" />
