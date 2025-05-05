@@ -1,41 +1,19 @@
-
-
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import controller.StudentController;
+import model.Student;
 
 public class StudentApp {
     public static void main(String[] args) {
-        // 1. Tạo Student mới
-        Student student1 = new Student("Bui van long", "levanc@example.com");
-        Student student2 = new Student("Bui van", "levancsss@example.com");
+        StudentController controller = new StudentController();
 
-        // 2. Thông tin database
-        String jdbcURL = "jdbc:mysql://localhost:3306/test"; // thay đổi nếu DB của bạn khác
-        String dbUser = "root"; // user MySQL của bạn
-        String dbPassword = "123456"; // password MySQL của bạn
+        Student student1 = new Student("Bui Van Long", "long@example.com", "0912383888", "male", "2000-09-09");
+        Student student2 = new Student("Nguyen Van A", "a@example.com", "0912783722", "male", "1996-01-01");
 
-        // 3. Thêm vào database
-        try {
-            Connection connection = DriverManager.getConnection(jdbcURL, dbUser, dbPassword);
-            String sql = "INSERT INTO students (name, email) VALUES (?, ?)";
-            PreparedStatement statement = connection.prepareStatement(sql);
-            statement.setString(1, student1.getName());
-            statement.setString(2, student1.getEmail());
-            statement.executeUpdate();
-            statement.setString(1, student2.getName());
-            statement.setString(2, student2.getEmail());
+        controller.addStudent(student1);
+        controller.addStudent(student2);
 
-            int rowsInserted = statement.executeUpdate();
-            if (rowsInserted > 0) {
-                System.out.println("Thêm sinh viên thành công!");
-            }
+        Student updatedStudent = new Student("Nguyen Van A Updated", "a@example.com", "0988888888", "male", "1996-01-02");
+        controller.updateStudent(updatedStudent);
 
-            statement.close();
-            connection.close();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+        controller.deleteStudentByEmail("long@example.com");
     }
 }

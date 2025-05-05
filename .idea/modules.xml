@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/Demo-Algorithm-Complexity.iml" filepath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/Demo-Algorithm-Complexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" filepath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" filepath="$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" filepath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" />
@@ -71,6 +72,7 @@
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" filepath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" />
       <module fileurl="file://$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" filepath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" />
@@ -134,6 +136,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" filepath="$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" filepath="$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" />

@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/src/DanTriNewsExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_test/src/config/DBConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_test/src/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_test/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_test/src/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/Crawl-Song-Example/CrawlSongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/Crawl-Song-Example/CrawlSongExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest7/src/controller/OrderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest7/src/controller/OrderManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/src/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/src/CrawlSongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/StudentApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/out/production/jdbc_test/StudentApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc_test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc_test/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc_test/src/StudentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc_test/src/StudentApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +193,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/String-Regex/Exercise19/Crawl-News/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Design-Patterns/Parctice21/Factory-Method/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -217,13 +228,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="CrawlSongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CrawlSongExample" />
-      <module name="Crawl-Song-Example" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentApp" />
       <module name="jdbc_test" />
@@ -233,7 +237,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CrawlSongExample" />
         <item itemvalue="Application.StudentApp" />
       </list>
     </recent_temporary>
@@ -348,7 +351,7 @@
       <workItem from="1745908992228" duration="649000" />
       <workItem from="1746002684723" duration="5632000" />
       <workItem from="1746352625273" duration="73000" />
-      <workItem from="1746407468218" duration="4011000" />
+      <workItem from="1746407468218" duration="11972000" />
     </task>
     <servers />
   </component>
@@ -877,11 +880,6 @@
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jdbc_test/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/String-Regex/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="129" />
@@ -905,6 +903,16 @@
           <url>file://$PROJECT_DIR$/String-Regex/Exercise19/Validate-Phone-Number/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/Parctice21/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
