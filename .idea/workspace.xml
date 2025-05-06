@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/codegym_file_utils.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/Adapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/src/FileCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/src/FileCalculatorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/codegym_file_utils.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" afterDir="false" />
@@ -196,8 +190,8 @@
       <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/String-Regex/String-Regex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/String-Regex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/Adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/Adapter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Facade/Facade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Facade/Facade.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" afterDir="false" />
@@ -546,7 +540,7 @@
       <workItem from="1746407468218" duration="11972000" />
       <workItem from="1746432877800" duration="5101000" />
       <workItem from="1746461892884" duration="3767000" />
-      <workItem from="1746493671749" duration="3397000" />
+      <workItem from="1746493671749" duration="4192000" />
     </task>
     <servers />
   </component>
