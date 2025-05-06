@@ -5,206 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/codegym_file_utils.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Exercise22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/Proxy-Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/app/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/core/FileDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/downloader/Downloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/proxy/FileDownloaderProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Abstract-Class-Interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Exercise7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Colorable/Interface-Colorable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Exercise7/Interface-Resizeable/Interface-Resizeable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Animal-Interface-Edible/Animal-Interface-Edible.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Abstract-Class-Interface/Parctice7/Parctice7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Access-Modifier-Static-Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Access-Modifier/Access-Modifier.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Exercise5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Method/Static-Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Array-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Add-Element/Add-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Character-Occurrences/Character-Occurrences.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Delete-Element/Delete-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Exercise3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Max-Element-Array-2D/Max-Element-Array-2D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Max-Element-Array-2D/Max-Element-Array-2D.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Megre-Array/Megre-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Megre-Array/Megre-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Min-Element-Array/Min-Element-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Min-Element-Array/Min-Element-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Diagonal/Sum-Diagonal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Convert-Temperature/Convert-Temperature.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Count-Student-Pass/Count-Student-Pass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Index-Array/Index-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Index-Array/Index-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Max-Element/Max-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Max-Element/Max-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/Min-Element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Min-Element/Min-Element.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Reverse-Array/Reverse-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array-In-Java/Parctice3/Test-Array/Test-Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/ArrayList-LinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Exercise10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Exercise10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/Java-Util-Arraylist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Arraylist/Java-Util-Arraylist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/Java-Util-Linked-List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Exercise10/Java-Util-Linked-List/Java-Util-Linked-List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-Linked-List/Deployment-Linked-List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Deployment-My-List/Deployment-My-List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList-LinkedList/Parctice10/Parctice10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Automated-Testing-TDD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Exercise9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Fizz-Buzz-Translate/Fizz-Buzz-Translate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Next-Day-Calculator/Next-Day-Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Exercise9/Triangle-Classification/Triangle-Classification.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Parctice9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/Parctice9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automated-Testing-TDD/Parctice9/SimpleCalculator/SimpleCalculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Binary-File-Serialization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/Copy-File-Binary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Copy-File-Binary/Copy-File-Binary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Exercise17.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/Manager-Product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Exercise17/Manager-Product/Manager-Product.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Copy-File-Large-Capacity/Copy-File-Large-Capacity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Copy-File-Large-Capacity/Copy-File-Large-Capacity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/List-Student-Binary-File/List-Student-Binary-File.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/List-Student-Binary-File/List-Student-Binary-File.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Parctice17/Parctice17.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-File-Serialization/Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Class-Object-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Electric-Fan/Electric-Fan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Exercise4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Rectangle/Rectangle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object-In-Java/Test1004/Test1004.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Clean-Code-Refactor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/Exercise8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/TennisGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Exercise8/TennisGame/TennisGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Calculator/Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Cylinder/Cylinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/FizzBuzz/FizzBuzz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Parctice8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Clean-Code-Refactor/Parctice8/Parctice8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/DSA-Stack-Queue-Tree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Check-Brackets-In-Stack/Check-Brackets-In-Stack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/Convert-Decimal-To-Binary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Convert-Decimal-To-Binary/Convert-Decimal-To-Binary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/Demerging-Queue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Demerging-Queue/Demerging-Queue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Exercise11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Exercise11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Number-Occurrences-Word/Number-Occurrences-Word.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Palindrome-Queue/Palindrome-Queue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Palindrome-Queue/Palindrome-Queue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Queue-Linked-List-Circular/Queue-Linked-List-Circular.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Queue-Linked-List-Circular/Queue-Linked-List-Circular.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Reverse-Array-String-Stack/Reverse-Array-String-Stack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Reverse-Array-String-Stack/Reverse-Array-String-Stack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/My-Queue-Arr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Queue-Arr/My-Queue-Arr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/My-Stack-Arr/My-Stack-Arr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Parctice11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/Queue-Linked-List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/Queue-Linked-List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Stack-Linked-List/Stack-Linked-List.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Exercise21/Exercise21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Exercise21/Exercise21.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Exercise21/Factory-Method-Exercise/Factory-Method-Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Exercise21/Factory-Method-Exercise/Factory-Method-Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Exercise21/Memory-Pool/Memory-Pool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Exercise21/Memory-Pool/Memory-Pool.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Factory-Method/Factory-Method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Parctice21/Object-Pool/Object-Pool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Object-Pool/Object-Pool.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/Parctice21/Singleton/Singleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/Parctice21/Singleton/Singleton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Exception-Handling-Debug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exception-Handling-Debug.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Exercise15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Exercise15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/Illegal-Triangle-Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Exercise15/Illegal-Triangle-Exception/Illegal-Triangle-Exception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/ArrayIndex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/ArrayIndex/ArrayIndex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Number-Format-Exception/Number-Format-Exception.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exception-Handling-Debug/Parctice15/Parctice15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/Copy-File-Text.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Copy-File-Text/Copy-File-Text.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/Exercise16.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Exercise16/File-CSV-Country/File-CSV-Country.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/IO-TEXT-FILE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/IO-TEXT-FILE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/Max-Number-File-Text.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Max-Number-File-Text/Max-Number-File-Text.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Parctice16.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/Parctice16/Sum-Number-File-Text/Sum-Number-File-Text.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO-TEXT-FILE/TestDemo/TestDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IO-TEXT-FILE/TestDemo/TestDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Circle-Cylinder/Circle-Cylinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Design-Triangle/Design-Triangle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Exercise6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point-MovablePoint/Point-MovablePoint.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Exercise6/Point2D-Point3D/Point2D-Point3D.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Inherit-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Inherit-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Object-Geometry/Object-Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inherit-Java/Parctice6/Parctice6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/.idea/CodeGym Module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/ConvertNumberToWords/ConvertNumberToWords.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Currency-Converter/Currency-Converter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Exercise/Hello/Hello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/BMI-Caculator/BMI-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Day-Month/Day-Month.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Leap-Year-Caculator/Leap-Year-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Linear-Equation-Resolver/Linear-Equation-Resolver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Operator-Expression/Operator-Expression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/Parctice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/system_time/system_time.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Java/Parctice1/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Exercise12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Exercise12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/Product-Management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/Product-Management.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Java-Collection-Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Java-Collection-Framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Binary-Search-Tree/Binary-Search-Tree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/Comparable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Comparable/Comparable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/HashMap-HashSet/HashMap-HashSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/HashMap-HashSet/HashMap-HashSet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/Map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Map/Map.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Parctice12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Exercise2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Geometry/Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/Prime-Less.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Prime-Less/Prime-Less.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Loop-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Loop-In-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Draw-Geometry/Draw-Geometry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Factorial/Factorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Greatest-Common-Factor/Greatest-Common-Factor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/Interest-Caculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Interest-Caculator/Interest-Caculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Prime/Prime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest2/Minitest2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest2/Minitest2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest3/Minitest3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest4/Minitest4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest5/Minitest5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest6/Minitest6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest6/Minitest6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/Minitest7/Minitest7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/Minitest7/Minitest7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minitest/TestDuyAnh/TestDuyAnh.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOAD-SOLID/OOAD-SOLID.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOAD-SOLID/OOAD-SOLID.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Activity-Diagram/Activity-Diagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Activity-Diagram/Activity-Diagram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Binary-Using-Recursive/Binary-Using-Recursive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Exercise13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Exercise13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String-Consecutive/Longest-Ascending-String-Consecutive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String-Consecutive/Longest-Ascending-String-Consecutive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String/Longest-Ascending-String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Exercise13/Longest-Ascending-String/Longest-Ascending-String.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Algorithm-Complexity/Algorithm-Complexity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/BinarySearch/BinarySearch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/Demo-Algorithm-Complexity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Demo-Algorithm-Complexity/Demo-Algorithm-Complexity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Parctice13/Parctice13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Search-Algorithm/Search-Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Exercise14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Exercise14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/Insertion-Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Exercise14/Insertion-Sort/Insertion-Sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/Bubble-Sort-Step.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort-Step/Bubble-Sort-Step.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort/Bubble-Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Bubble-Sort/Bubble-Sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Parctice14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/Selection-Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Parctice14/Selection-Sort/Selection-Sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting-Algorithm/Sorting-Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/Crawl-News.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Crawl-News/Crawl-News.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Exercise19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Name-Class/Validate-Name-Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Exercise19/Validate-Name-Class/Validate-Name-Class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/Crawl-Song-Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Crawl-Song-Example/Crawl-Song-Example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Parctice19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Account/Validate-Account.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/Parctice19/Validate-Email/Validate-Email.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String-Regex/String-Regex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String-Regex/String-Regex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/Adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Adapter/Adapter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Facade/Facade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Facade/Facade.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Exercise18/Exercise18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Exercise18/Number-Generator/Number-Generator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Exercise18/Odd-Even-Thread/Odd-Even-Thread.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Exercise18/Prime-Factorization/Prime-Factorization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Exercise18/Prime-Factorization/Prime-Factorization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/Garbage-Collection-Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Garbage-Collection-Demo/Garbage-Collection-Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Parctice18/Count-Number/Count-Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Parctice18/Count-Number/Count-Number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Parctice18/Parctice18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Parctice18/Racing-Cars/Racing-Cars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Parctice18/Racing-Cars/Racing-Cars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Parctice18/Runnable-Demo/Runnable-Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Parctice18/Runnable-Demo/Runnable-Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threading/Threading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Threading.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc_test/jdbc_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc_test/jdbc_test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,7 +188,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Structural-Design-Pattern/Parctice22/Adapter/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -540,7 +349,7 @@
       <workItem from="1746407468218" duration="11972000" />
       <workItem from="1746432877800" duration="5101000" />
       <workItem from="1746461892884" duration="3767000" />
-      <workItem from="1746493671749" duration="4192000" />
+      <workItem from="1746493671749" duration="5907000" />
     </task>
     <servers />
   </component>
@@ -1132,6 +941,11 @@
           <url>file://$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
