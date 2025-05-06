@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/Facade-Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/ListFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/ListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/RandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/RandomListFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/eCommerce/src/eCommerce.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc_test/src/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc_test/src/controller/StudentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +83,7 @@
     "Application.CircleComparatorTest.executor": "Run",
     "Application.CircleTest.executor": "Run",
     "Application.ClassNameValidate.executor": "Run",
+    "Application.Client.executor": "Run",
     "Application.CompareCircleTest.executor": "Run",
     "Application.ConvertDecimalToBinary.executor": "Run",
     "Application.ConvertNumberToWords.executor": "Run",
@@ -174,13 +186,13 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/minht/Desktop/codegym-file-utils.jar",
+    "last_opened_file_path": "C:/Users/minht/Desktop/CodeGym Module2/Structural-Design-Pattern/Exercise22/Facade-Pattern/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/minht/Desktop/CodeGym Module2/Structural-Design-Pattern/Exercise22/Facade-Pattern/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -190,11 +202,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Structural-Design-Pattern\Exercise22\Facade-Pattern\src" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\OOAD-SOLID\Parctice20\eCommerce\src" />
+      <recent name="C:\Users\minht\Desktop\CodeGym Module2\OOAD-SOLID\Parctice20\Use-Case\src" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\Structural-Design-Pattern\Parctice22\Adapter\src" />
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\OOAD-SOLID\Parctice20\Activity-Diagram\src" />
-      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Automated-Testing-TDD\SimpleCalculator" />
-      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Exercise8\TennisGame" />
-      <recent name="C:\Users\minht\Desktop\CodeGym Module2\Clean-Code-Refactor\Parctice8\Cylinder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\minht\Desktop\CodeGym Module2\String-Regex\Parctice19" />
@@ -211,6 +223,9 @@
       <recent name="Calculator" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
@@ -341,7 +356,7 @@
       <workItem from="1746407468218" duration="11972000" />
       <workItem from="1746432877800" duration="5101000" />
       <workItem from="1746461892884" duration="3767000" />
-      <workItem from="1746493671749" duration="7579000" />
+      <workItem from="1746493671749" duration="9247000" />
     </task>
     <servers />
   </component>

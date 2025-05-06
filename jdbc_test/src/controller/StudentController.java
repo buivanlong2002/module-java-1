@@ -4,7 +4,7 @@ import model.Student;
 import service.StudentService;
 
 public class StudentController {
-    private StudentService studentService = new StudentService();
+    private final StudentService studentService = new StudentService();
 
     public void addStudent(Student student) {
         if (studentService.insertStudent(student)) {
