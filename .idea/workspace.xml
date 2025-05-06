@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/src/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/src/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/src/impl/MathCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/src/proxy/MathCalculatorProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -349,7 +339,7 @@
       <workItem from="1746407468218" duration="11972000" />
       <workItem from="1746432877800" duration="5101000" />
       <workItem from="1746461892884" duration="3767000" />
-      <workItem from="1746493671749" duration="974000" />
+      <workItem from="1746493671749" duration="1731000" />
     </task>
     <servers />
   </component>
