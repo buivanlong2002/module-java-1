@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="507341ec-4130-4ce1-b474-ff31aa1594fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Exercise22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/Proxy-Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/app/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/core/FileDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/downloader/Downloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural-Design-Pattern/Exercise22/Proxy-Pattern/src/proxy/FileDownloaderProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -349,7 +341,7 @@
       <workItem from="1746407468218" duration="11972000" />
       <workItem from="1746432877800" duration="5101000" />
       <workItem from="1746461892884" duration="3767000" />
-      <workItem from="1746493671749" duration="5907000" />
+      <workItem from="1746493671749" duration="7579000" />
     </task>
     <servers />
   </component>
