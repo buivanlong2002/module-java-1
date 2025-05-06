@@ -144,6 +144,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Parctice2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" filepath="$PROJECT_DIR$/OOAD-SOLID/Parctice20/Parctice20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" filepath="$PROJECT_DIR$/Design-Patterns/Parctice21/Parctice21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" filepath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Parctice22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" filepath="$PROJECT_DIR$/Array-In-Java/Parctice3/Parctice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Parctice4/Parctice4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Parctice5.iml" />
@@ -159,6 +160,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Parctice2/Print-Even-Number/Print-Even-Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Exercise2/Print-Prime/Print-Prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/Product-Management.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Exercise12/Product-Management/Product-Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structural-Design-Pattern/Parctice22/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Quadratic-Equation/Quadratic-Equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/Queue-Linked-List.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Parctice11/Queue-Linked-List/Queue-Linked-List.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Queue-Linked-List-Circular/Queue-Linked-List-Circular.iml" filepath="$PROJECT_DIR$/DSA-Stack-Queue-Tree/Exercise11/Queue-Linked-List-Circular/Queue-Linked-List-Circular.iml" />
@@ -177,6 +179,7 @@
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Parctice5/Static-Property/Static-Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" filepath="$PROJECT_DIR$/Class-Object-In-Java/Exercise4/Stop-Watch/Stop-Watch.iml" />
       <module fileurl="file://$PROJECT_DIR$/String-Regex/String-Regex.iml" filepath="$PROJECT_DIR$/String-Regex/String-Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Design-Pattern/Structural-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" filepath="$PROJECT_DIR$/Java-Collection-Framework/Parctice12/Student-By-Year-Old/Student-By-Year-Old.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" filepath="$PROJECT_DIR$/Access-Modifier-Static-Method/Exercise5/Student-Java/Student-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" filepath="$PROJECT_DIR$/Array-In-Java/Exercise3/Sum-Column/Sum-Column.iml" />
